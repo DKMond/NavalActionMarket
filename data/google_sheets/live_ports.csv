@@ -1,0 +1,208 @@
+portId,port,nationId,nationName,x,y,taxRate,snapshotUTC,provider,sourceUrl
+3,Walker's Cay,2,España,16800.0003755093,-479000.010706485,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+4,West End,2,España,32200.0007197261,-430200.00961572,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+5,Road Rocks,0,Neutral,-6800.00015199185,-429800.009606779,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+6,Turtle Cay,0,Neutral,-26800.0005990267,-461800.010322035,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+8,Little Harbour,0,Neutral,-46600.0010415912,-415200.009280443,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+9,Marsh Harbour,0,Neutral,-49200.0010997057,-434000.009700656,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+10,Bimini,2,España,45800.0010237098,-375800.008399785,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+11,Mimbres,0,Neutral,30800.0006884337,-328200.007335842,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+12,Morgan's Bluff,0,Neutral,4400.00009834767,-357600.007992983,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+14,Nassau,5,Verenigde Provinciën,-32400.0007241964,-351000.007845462,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+15,Harbour Island,0,Neutral,-58600.0013098121,-371600.008305907,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+16,Governor's Harbour,0,Neutral,-76600.0017121435,-356400.007966161,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+17,Arthur's Town,0,Neutral,-104000.002324581,-328600.007344783,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+18,George's Town,0,Neutral,-95000.0021234155,-292200.006531179,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+20,Deadman's Cay,0,Neutral,-124400.002780557,-273000.006102026,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+21,Ragged Cay,1,Pirates,-109600.002449751,-221800.004957616,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+22,Watlings,0,Neutral,-152800.003415346,-300200.006709993,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+23,Pitt's Town,0,Neutral,-162200.003625453,-250400.005596876,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+26,Mayaguana,0,Neutral,-221200.004944205,-247000.00552088,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+27,Mortimer Town,1,Pirates,-192400.004300475,-165000.003688037,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+29,Little Inagua,1,Pirates,-218800.004890561,-192600.004304946,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+30,Parrot Cay,1,Pirates,-255600.005713105,-207400.004635751,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+33,Grand Turk,1,Pirates,-312000.006973744,-184800.004130602,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+35,Baja,2,España,261400.005842745,-246000.005498529,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+38,La Habana,2,España,188200.004206598,-265400.005932152,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+39,Matanzas,2,España,154600.003455579,-263200.005882979,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+42,La Anguila,2,España,46600.0010415912,-278800.006231666,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+43,Remedios,2,España,64800.0014483929,-239800.005359948,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+44,Cayo Romano,1,Pirates,8600.00019222498,-235800.005270541,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+46,Nuevitas,1,Pirates,-33400.0007465482,-188200.004206598,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+49,Puerto de Nipe,3,France,-95800.0021412969,-153000.003419817,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+50,Baracoa,2,España,-150800.003370643,-135800.003035367,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+51,Puerto Escondido,4,Great Britain,-127000.002838671,-114400.002557039,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+52,Santiago de Cuba,4,Great Britain,-92200.0020608306,-116800.002610684,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+54,Portillo,4,Great Britain,-36000.0008046627,-114000.002548099,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+55,Manzanillo,4,Great Britain,-37400.0008359552,-138200.003089011,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+56,Santa Cruz,4,Great Britain,800.000017881394,-151800.003392994,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+57,Santa María,4,Great Britain,26400.000590086,-185600.004148483,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+59,Trinidad,4,Great Britain,86200.0019267202,-201200.004497171,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+62,San Lazaro,4,Great Britain,169200.003781915,-225600.005042553,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+65,Pinar del Río,4,Great Britain,256800.005739927,-221800.004957616,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+66,Corrientes,4,Great Britain,283800.006343424,-210200.004698336,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+68,Santa Fe,4,Great Britain,181000.004045665,-208800.004667044,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+71,Siguanea,4,Great Britain,204800.004577637,-196200.004385412,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+72,George Town,4,Great Britain,133200.002977252,-90200.0020161272,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+74,Cayman Brac,4,Great Britain,61800.0013813377,-112000.002503395,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+77,Port Antonio,2,España,-55200.0012338162,-32400.0007241964,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,4,Great Britain,-42400.0009477139,-22600.0005051494,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+81,Savanna la Mar,4,Great Britain,16200.0003620982,-32200.0007197261,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+82,Sale-Trou,1,Pirates,-271200.006061792,-29800.0006660819,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+83,Jacmel,4,Great Britain,-240600.005377829,-34200.0007644296,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+85,La Navasse,4,Great Britain,-125800.002811849,-43600.000974536,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+86,Les Cayes,4,Great Britain,-185400.004144013,-31800.0007107854,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+88,Jérémie,4,Great Britain,-169200.003781915,-53400.001193583,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+90,Léogane,2,España,-236000.005275011,-48200.001077354,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+91,Port-au-Prince,2,España,-248800.005561113,-48200.001077354,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+92,Saint-Marc,2,España,-234200.005234778,-76400.0017076731,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+94,Saint-Nicolas,1,Pirates,-202600.004528463,-109200.00244081,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+95,Port-de-Paix,3,France,-228000.005096197,-116000.002592802,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+96,La Tortue,5,Verenigde Provinciën,-234800.005248189,-118400.002646446,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+97,Cap-Français,3,France,-257000.005744398,-106200.002373755,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+100,La Isabela,2,España,-307800.006879866,-112800.002521277,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+101,Puerto Plata,3,France,-324800.007259846,-109600.002449751,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+103,Bahía Escocesa,2,España,-365200.008162856,-88200.0019714237,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+104,Samaná,1,Pirates,-390600.008730591,-79600.0017791987,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+105,Macao,1,Pirates,-424600.00949055,-60000.0013411045,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+106,Higüey,1,Pirates,-421400.009419024,-41200.0009208918,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+108,Santo Domingo,1,Pirates,-362600.008104742,-45400.0010147691,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+111,Barahona,1,Pirates,-308600.006897748,-31800.0007107854,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+112,La Mona,5,Verenigde Provinciën,-454400.010156632,-26400.000590086,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+113,Aguadilla,1,Pirates,-482000.01077354,-56600.0012651086,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+115,San Juan,1,Pirates,-532600.011904538,-47400.0010594726,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+116,Fajardo,1,Pirates,-559400.012503565,-44600.0009968877,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+117,Guayama,1,Pirates,-548200.012253225,-28800.0006437302,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+119,Guánica,2,España,-489800.010947883,-37000.0008270145,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+123,Amalienborg,2,España,-596600.01333505,-33800.0007554889,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+127,Spanish Town,2,España,-625600.01398325,-35400.0007912517,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+129,Christiansted,2,España,-600600.013424456,-11000.0002458692,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+130,Hat Island,1,Pirates,-659000.014729798,-50000.0011175871,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+131,Marigot,1,Pirates,-678200.015158952,-23800.0005319715,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+133,Gustavia,3,France,-687000.015355647,-10000.0002235174,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+134,Codrington,1,Pirates,-735400.016437471,-6600.0001475215,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+135,Fort Baai,1,Pirates,-662400.014805794,-7600.00016987324,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+136,Oranjestad,1,Pirates,-678600.015167892,6400.00014305115,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+137,Basseterre Town,1,Pirates,-693400.015498698,13400.0002995133,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+140,Saint John's,1,Pirates,-735400.016437471,18600.0004157424,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+145,Pointe-à-Pitre,3,France,-748200.016723574,60800.0013589859,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+146,Basse-Terre,1,Pirates,-739400.016526878,72800.0016272068,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+149,Camp du Roy,1,Pirates,-759200.016969443,78600.0017568469,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+150,Aves,5,Verenigde Provinciën,-652400.014582277,96400.002154708,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+152,Roseau,1,Pirates,-755800.016893447,107200.002396107,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+154,La Trinité,3,France,-776000.017344952,131600.002941489,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+156,Fort-Royal,3,France,-770600.017224253,139800.003124774,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+159,Vieux-Fort,3,France,-775600.017336011,180000.004023314,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+161,Bridgetown,3,France,-809000.018082559,223200.004988909,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+162,Kingstown,3,France,-762800.017049909,208800.004667044,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+164,Saint George,3,France,-738000.016495586,261200.005838275,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+165,Scarborough,2,España,-790000.017657876,303800.006790459,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+169,Puerto de España,3,France,-752600.016821921,328400.007340312,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+170,La Blanquilla,3,France,-608600.01360327,268000.005990267,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+171,La Orchilla,3,France,-531600.011882186,274400.006133318,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+172,Las Aves,3,France,-483600.010809303,266800.005963445,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+173,Fort Oranje,3,France,-439600.009825826,259000.005789101,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+174,Willemstad,2,España,-411400.009195507,256200.005726516,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+175,Fort Zoutman,2,España,-359600.008037687,242000.005409122,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+176,Santo Tomé de Guayana,3,France,-791200.017684698,425200.009503961,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+177,Caño Araguao,3,France,-787800.017608703,392600.008775294,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+179,Guayaguayare,5,Verenigde Provinciën,-776800.017362833,352400.007876754,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+180,Pedernales,3,France,-721600.016129017,358800.008019805,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+181,Yaguaraparo,3,France,-692400.015476346,334800.007483363,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+183,Galdonas,3,France,-689800.015418232,325600.007277727,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+185,Pampatar,3,France,-647000.014461577,310200.00693351,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+187,La Tortuga,3,France,-577000.012896955,314400.007027388,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+189,Cumaná,3,France,-629000.014059246,337600.007545948,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+191,Píritu,3,France,-590400.013196469,356400.007966161,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+192,Río Chico,3,France,-546200.012208522,341200.007626414,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+193,Caracas,3,France,-500800.011193753,331000.007398427,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+194,Puerto Cabello,3,France,-452000.010102988,337800.007550419,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+196,Coro,2,España,-380400.008502603,290800.006499887,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+197,Mitara,2,España,-363200.008118153,288200.006441772,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+198,Casigua,2,España,-315600.00705421,308000.006884337,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+201,Gibraltar,2,España,-308400.006893277,397200.008878112,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+203,Perijá,2,España,-265000.005923212,368800.008243323,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+204,Maracaibo,2,España,-286800.00641048,330400.007385016,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+207,Coquibacoa,3,France,-305800.006835163,251400.005619228,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+208,Cabo de la Vela,3,France,-262600.005869568,255600.005713105,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+209,Río de la Hacha,3,France,-231000.005163252,286600.006406009,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+210,Santa Marta,2,España,-170600.003813207,300000.006705523,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+212,Cartagena de Indias,2,España,-113400.002534688,336200.007514656,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+213,Tolú,3,France,-108200.002418459,383200.008565188,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+214,Dariena,5,Verenigde Provinciën,-45200.0010102988,458000.010237098,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+216,Canalete,3,France,-70400.0015735627,415200.009280443,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+218,Playón,3,France,12400.0002771616,396000.00885129,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+220,Portobelo,2,España,75800.0016942621,385000.008605421,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+222,Calobelo,2,España,125200.002798438,414400.009262562,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+223,Concepción,2,España,160600.00358969,420600.009401143,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+225,Almirante,2,España,197000.004403293,401200.008967519,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+227,Matina,3,France,237400.005306304,357600.007992983,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+228,San Juan del Norte,1,Pirates,259800.005806983,321800.007192791,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+230,Bluefields,1,Pirates,262800.005874038,269400.006021559,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+231,Great Corn,5,Verenigde Provinciën,231000.005163252,263600.005891919,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+233,Great River,1,Pirates,252000.005632639,230000.005140901,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+235,Old Providence,1,Pirates,153000.003419817,203800.004555285,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+236,San Andrés,1,Pirates,167200.003737211,242400.005418062,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+237,Brangman's Bluff,1,Pirates,247000.00552088,175000.003911555,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+240,Gracias a Dios,4,Great Britain,236800.005292893,128200.002865493,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+241,Croata,4,Great Britain,269000.006012619,115400.002579391,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+243,Black River,1,Pirates,322000.007197261,84200.0018820167,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+244,Truxillo,4,Great Britain,372000.008314848,87000.0019446016,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+245,Bonacca,1,Pirates,333600.007456541,48800.001090765,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+246,Ruatan,4,Great Britain,365600.008171797,54200.0012114644,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+250,Omoa,4,Great Britain,464800.01038909,96400.002154708,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+252,Placentia,4,Great Britain,479000.010706485,61200.0013679266,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+253,Belize,4,Great Britain,472800.010567904,13800.000308454,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+254,Turneffe,1,Pirates,426400.009530783,13000.0002905727,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+256,Salamanca,4,Great Britain,477600.010675192,-48200.001077354,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+257,Bensalem,4,Great Britain,435200.009727478,-30200.0006750226,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+258,Chinchorro,2,España,409800.009159744,-62800.0014036894,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+259,Congrios,2,España,441600.009870529,-79400.0017747283,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+262,Xpu Ha,4,Great Britain,420800.009405613,-138200.003089011,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+263,Tantun Cuzamil,4,Great Britain,392400.008770824,-121200.002709031,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+264,Conil,2,España,419800.009383261,-179400.004009903,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+266,Selam,2,España,490200.010956824,-175000.003911555,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+268,Sisal,2,España,540600.012083352,-161200.003603101,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+269,Campeche,2,España,564600.012619794,-98000.0021904707,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+270,Champotón,2,España,576200.012879074,-69200.0015467406,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+271,Puerto Real,2,España,603800.013495982,-43800.0009790063,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+273,Victoria,2,España,643400.014381111,-33200.0007420778,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+274,Espíritu Santo,2,España,693800.015507639,-9400.00021010638,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+276,Vera Cruz,2,España,743600.016620756,-55600.0012427569,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+296,Saint-Malo,2,España,482000.01077354,-580600.012977422,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,2,España,462800.010344386,-545800.012199581,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+301,Penzacola,2,España,385400.008614361,-607200.013571978,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+303,San José,2,España,308800.006902218,-582800.013026595,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+305,San Marcos,2,España,262000.005856156,-594400.013285876,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+307,Las Sabinas,2,España,214800.004801154,-548800.012266636,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+309,Tampa,2,España,189400.00423342,-487400.010894239,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+311,Gasparilla,2,España,180400.004032254,-431800.009651482,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+313,Key West,2,España,172400.00385344,-326600.007300079,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+314,Las Tortugas,2,España,234400.005239248,-335800.007505715,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+316,Islamorada,2,España,111000.002481043,-346800.007751584,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+318,Cabo Cañaveral,2,España,106400.002378225,-517800.011573732,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+321,Ays,2,España,92400.002065301,-465000.01039356,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+323,Cayo Biscayno,2,España,90000.0020116568,-385000.008605421,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+326,San Agustín,2,España,137000.003062189,-588000.013142825,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+329,Brunswick,2,España,140800.003147125,-646400.014448166,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+331,Savannah,2,España,119200.002664328,-690800.015440584,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+333,Charleston,2,España,81600.0018239022,-729800.016312302,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+334,Georgetown,2,España,44800.0010013581,-745400.016660989,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+335,Wilmington,2,España,-11600.0002592802,-790600.017671287,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+343,Tumbado,5,Verenigde Provinciën,387200.008654595,-207200.004631281,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+348,Santanillas,4,Great Britain,246400.005507469,-4600.00010281802,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+349,Serrana,4,Great Britain,76400.0017076731,115600.002583861,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+350,Bone Cay,4,Great Britain,30800.0006884337,56400.0012606383,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+352,Pedro Cay,4,Great Britain,-18600.0004157424,24400.0005453825,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+355,Saint George's Town,2,España,-666600.014899671,-802000.017926097,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+357,Kidd's Harbour,2,España,-316400.007072091,-591000.01320988,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+358,Mangrove Cay,0,Neutral,13600.0003039837,-453000.010125339,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+360,Water Bay,0,Neutral,9200.00020563603,-421800.009427965,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+361,Crown Haven,0,Neutral,-18000.0004023314,-448800.010031462,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+362,Little Isaac Rocks,0,Neutral,5800.00012964011,-389600.008708239,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+363,La Desconocida,0,Neutral,-39600.000885129,-388400.008681417,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+364,William's Bay,0,Neutral,4400.00009834767,-345400.007720292,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+366,Shroud Cay,2,España,-59800.0013366342,-320600.007165969,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+369,Plymouth,1,Pirates,-717000.016026199,38600.0008627773,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+370,Island Harbour,1,Pirates,-687600.015369058,-42400.0009477139,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json
+374,Guacata,2,España,107600.002405047,-411400.009195507,0.05,2026-08-14T20:06:11.965878Z,public-shard,https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json

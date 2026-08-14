@@ -1,0 +1,678 @@
+portId,port,itemId,item,amount,active114,snapshotUTC,sourceUrl
+3,Walker's Cay,43,Stone Block,733,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+4,West End,864,Saltpeter,573,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+5,Road Rocks,607,Tobacco,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+6,Turtle Cay,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+8,Little Harbour,1844,Medicinal bark,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+9,Marsh Harbour,28,Hemp,37500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+9,Marsh Harbour,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+10,Bimini,28,Hemp,1597,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+11,Mimbres,864,Saltpeter,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+11,Mimbres,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+12,Morgan's Bluff,887,Provisions,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,1843,Coconut Fibres,98,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,1853,Lemons,596,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,1872,Pineapples,138,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,1842,Bananas,5580,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,1869,Coconuts,570,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,1848,Corals,175,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,888,Cotton,12,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,32,Batavian Spices,31,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,838,Dutch Cacao,205,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,840,Dutch Peanut Butter,434,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,813,Bavarian wheat,2351,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,843,Suriname Indigo,50,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,1856,White Pepper,123,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+14,Nassau,1877,Black Pepper,135,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+15,Harbour Island,26,Fir Log,37500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+16,Governor's Harbour,29,Iron Ore,37500,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+16,Governor's Harbour,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+17,Arthur's Town,866,Sulphur,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+18,George's Town,1890,Molasses,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+20,Deadman's Cay,620,Fish Meat,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+20,Deadman's Cay,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+21,Ragged Cay,26,Fir Log,1531,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+22,Watlings,887,Provisions,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+22,Watlings,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,887,Provisions,719,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,37,Swedish Iron,228,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,819,Norwegian Fox Fur,30,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,836,Swedish flax,4241,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,1876,Akvavit,202,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,835,Russian Vodka,189,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,33,Danish Beer,35,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,814,Danish Pickled Herring,30,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+23,Pitt's Town,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+26,Mayaguana,39,Oak Log,50000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+26,Mayaguana,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+27,Mortimer Town,43,Stone Block,635,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+27,Mortimer Town,866,Sulphur,573,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+29,Little Inagua,29,Iron Ore,2174,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+29,Little Inagua,1890,Molasses,1494,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+30,Parrot Cay,620,Fish Meat,1449,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+30,Parrot Cay,866,Sulphur,747,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+33,Grand Turk,39,Oak Log,2899,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+35,Baja,854,Cuban Tobacco,57,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+35,Baja,28,Hemp,2241,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+35,Baja,1844,Medicinal bark,737,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,1860,Cactus,5913,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,29,Iron Ore,2241,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,864,Saltpeter,737,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,1359,White Oak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,794,Sevilla Muskets,13,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,792,Merino Wool,55,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,791,Madeira Wine,190,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,790,Iberian Dried Pork,6150,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,789,Catalonian Olive Oil,248,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,796,Spanish Dried Fruits,554,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,801,Arabian Coffee,59,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,854,Cuban Tobacco,38,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,606,Sugar,107,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,1858,Livestock,205,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,1850,Logwood,197,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,1860,Cactus,4447,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,1849,Limes,3709,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+38,La Habana,1862,Tequila,195,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+39,Matanzas,606,Sugar,224,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+39,Matanzas,43,Stone Block,747,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+39,Matanzas,866,Sulphur,737,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+42,La Anguila,1850,Logwood,224,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+42,La Anguila,30,Lignum Vitae Log,1494,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+42,La Anguila,607,Tobacco,1474,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+43,Remedios,1858,Livestock,224,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+43,Remedios,620,Fish Meat,1494,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+44,Cayo Romano,1890,Molasses,1449,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+46,Nuevitas,1862,Tequila,224,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+46,Nuevitas,30,Lignum Vitae Log,1494,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+46,Nuevitas,864,Saltpeter,737,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+46,Nuevitas,607,Tobacco,1494,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+49,Puerto de Nipe,1860,Cactus,5913,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+49,Puerto de Nipe,28,Hemp,2241,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+49,Puerto de Nipe,1844,Medicinal bark,737,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+50,Baracoa,606,Sugar,224,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+50,Baracoa,620,Fish Meat,1494,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+51,Puerto Escondido,1849,Limes,5913,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+51,Puerto Escondido,887,Provisions,747,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+52,Santiago de Cuba,1850,Logwood,200,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+52,Santiago de Cuba,1890,Molasses,1195,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+52,Santiago de Cuba,44,Teak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+52,Santiago de Cuba,854,Cuban Tobacco,30,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+52,Santiago de Cuba,606,Sugar,150,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+52,Santiago de Cuba,1858,Livestock,235,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+52,Santiago de Cuba,1850,Logwood,148,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+52,Santiago de Cuba,1860,Cactus,4263,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+52,Santiago de Cuba,1849,Limes,6003,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+52,Santiago de Cuba,1862,Tequila,150,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+54,Portillo,854,Cuban Tobacco,50,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+54,Portillo,43,Stone Block,597,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+55,Manzanillo,1858,Livestock,200,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+55,Manzanillo,29,Iron Ore,1792,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+55,Manzanillo,864,Saltpeter,608,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+56,Santa Cruz,1849,Limes,5263,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+56,Santa Cruz,1844,Medicinal bark,597,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+57,Santa María,39,Oak Log,2735,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+59,Trinidad,1890,Molasses,1367,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+59,Trinidad,864,Saltpeter,597,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+62,San Lazaro,620,Fish Meat,1367,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+65,Pinar del Río,1862,Tequila,200,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+65,Pinar del Río,887,Provisions,597,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+66,Corrientes,30,Lignum Vitae Log,1367,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+68,Santa Fe,28,Hemp,2051,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+68,Santa Fe,607,Tobacco,1195,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+71,Siguanea,29,Iron Ore,2051,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+71,Siguanea,866,Sulphur,597,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+72,George Town,808,Wool,200,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+72,George Town,26,Fir Log,1792,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+74,Cayman Brac,1891,Muskets,103,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+74,Cayman Brac,43,Stone Block,521,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+77,Port Antonio,824,Fine Fabrics,103,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+77,Port Antonio,607,Tobacco,1042,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,28,Hemp,1571,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,866,Sulphur,521,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,1359,White Oak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,1864,Gin,46,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,806,Lancashire Iron,184,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,809,Suffolk Cheese,584,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,811,Textile Machinery,13,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,1865,Whiskey,42,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,841,Gold Coast Ivory,57,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,802,Indian tea,34,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,824,Fine Fabrics,207,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,1840,Flannel,182,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,808,Wool,154,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,1891,Muskets,224,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+79,Kingston / Port Royal,1854,Garlic,3996,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+81,Savanna la Mar,620,Fish Meat,1047,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+82,Sale-Trou,864,Saltpeter,523,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+82,Sale-Trou,43,Stone Block,521,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+83,Jacmel,26,Fir Log,1571,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+85,La Navasse,30,Lignum Vitae Log,1047,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+86,Les Cayes,1858,Livestock,103,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+86,Les Cayes,30,Lignum Vitae Log,1042,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+86,Les Cayes,1844,Medicinal bark,654,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+88,Jérémie,1850,Logwood,103,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+88,Jérémie,39,Oak Log,2084,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+90,Léogane,1844,Medicinal bark,523,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+91,Port-au-Prince,29,Iron Ore,1571,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+91,Port-au-Prince,854,Cuban Tobacco,26,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+91,Port-au-Prince,606,Sugar,182,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+91,Port-au-Prince,1858,Livestock,180,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+91,Port-au-Prince,1850,Logwood,184,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+91,Port-au-Prince,1860,Cactus,6135,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+91,Port-au-Prince,1849,Limes,4583,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+91,Port-au-Prince,1862,Tequila,166,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+92,Saint-Marc,1860,Cactus,2714,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+92,Saint-Marc,26,Fir Log,1563,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+94,Saint-Nicolas,1849,Limes,2714,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+94,Saint-Nicolas,864,Saltpeter,521,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+95,Port-de-Paix,26,Fir Log,1571,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,607,Tobacco,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,866,Sulphur,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,620,Fish Meat,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,1359,White Oak Log,18750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,854,Cuban Tobacco,46,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,606,Sugar,233,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,1858,Livestock,174,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,1850,Logwood,166,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,1860,Cactus,5921,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,1849,Limes,3568,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,1862,Tequila,207,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+96,La Tortue,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+97,Cap-Français,854,Cuban Tobacco,34,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+97,Cap-Français,28,Hemp,1635,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+97,Cap-Français,1890,Molasses,1142,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+100,La Isabela,887,Provisions,572,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+101,Puerto Plata,29,Iron Ore,1717,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+101,Puerto Plata,1844,Medicinal bark,545,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+103,Bahía Escocesa,30,Lignum Vitae Log,1144,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+103,Bahía Escocesa,864,Saltpeter,545,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+104,Samaná,1862,Tequila,132,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+104,Samaná,43,Stone Block,545,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+104,Samaná,607,Tobacco,1142,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+105,Macao,28,Hemp,1717,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+105,Macao,39,Oak Log,2180,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+106,Higüey,606,Sugar,132,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+106,Higüey,620,Fish Meat,1090,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+106,Higüey,607,Tobacco,1142,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+108,Santo Domingo,887,Provisions,572,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+108,Santo Domingo,866,Sulphur,545,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+108,Santo Domingo,1359,White Oak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+108,Santo Domingo,854,Cuban Tobacco,31,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+108,Santo Domingo,606,Sugar,183,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+108,Santo Domingo,1858,Livestock,95,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+108,Santo Domingo,1850,Logwood,157,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+108,Santo Domingo,1860,Cactus,2590,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+108,Santo Domingo,1849,Limes,5266,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+108,Santo Domingo,1862,Tequila,200,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+111,Barahona,29,Iron Ore,1717,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+111,Barahona,1890,Molasses,1090,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,858,Fine Leather,34,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,864,Saltpeter,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,1890,Molasses,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,43,Stone Block,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,887,Provisions,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,44,Teak Log,18750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+112,La Mona,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+113,Aguadilla,1866,Grapefruit,4916,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+113,Aguadilla,30,Lignum Vitae Log,1437,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+115,San Juan,851,Black Ironwood,14,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+115,San Juan,1890,Molasses,1437,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+115,San Juan,44,Teak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+115,San Juan,1866,Grapefruit,4873,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+115,San Juan,1871,Mangoes,5719,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+115,San Juan,851,Black Ironwood,7,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+115,San Juan,858,Fine Leather,46,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+115,San Juan,1884,Silk,26,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+115,San Juan,815,Salted pork,5185,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+116,Fajardo,815,Salted pork,4916,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+116,Fajardo,43,Stone Block,718,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+117,Guayama,1871,Mangoes,4916,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+117,Guayama,26,Fir Log,2156,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+119,Guánica,1884,Silk,47,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+123,Amalienborg,39,Oak Log,2648,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+127,Spanish Town,858,Fine Leather,47,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+127,Spanish Town,620,Fish Meat,1437,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+129,Christiansted,1884,Silk,47,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+129,Christiansted,1844,Medicinal bark,718,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+130,Hat Island,887,Provisions,662,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+131,Marigot,30,Lignum Vitae Log,1324,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+133,Gustavia,815,Salted pork,4916,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+133,Gustavia,866,Sulphur,718,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+134,Codrington,43,Stone Block,662,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+135,Fort Baai,28,Hemp,1986,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+136,Oranjestad,864,Saltpeter,662,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+136,Oranjestad,1866,Grapefruit,5818,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+136,Oranjestad,1871,Mangoes,4204,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+136,Oranjestad,851,Black Ironwood,14,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+136,Oranjestad,858,Fine Leather,55,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+136,Oranjestad,1884,Silk,24,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+136,Oranjestad,815,Salted pork,4816,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+137,Basseterre Town,607,Tobacco,1324,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+140,Saint John's,851,Black Ironwood,14,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+140,Saint John's,29,Iron Ore,2156,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+140,Saint John's,44,Teak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+145,Pointe-à-Pitre,1871,Mangoes,4266,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+145,Pointe-à-Pitre,39,Oak Log,2276,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+146,Basse-Terre,815,Salted pork,4266,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+146,Basse-Terre,607,Tobacco,1138,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+149,Camp du Roy,851,Black Ironwood,12,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+149,Camp du Roy,620,Fish Meat,1138,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,1866,Grapefruit,4266,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,30,Lignum Vitae Log,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,29,Iron Ore,37500,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,607,Tobacco,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,39,Oak Log,50000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+150,Aves,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+152,Roseau,864,Saltpeter,550,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+154,La Trinité,858,Fine Leather,30,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+154,La Trinité,1844,Medicinal bark,666,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,1884,Silk,30,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,866,Sulphur,666,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,1359,White Oak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,830,Sevres Stained Glass,48,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,844,French perfume,7,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,821,Burgundian Wine,104,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,822,Cognac,192,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,1859,Liqueur,190,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,827,Normandy Cider,423,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,831,Versailles Terracotta,59,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,1866,Grapefruit,2492,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,1871,Mangoes,2362,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,851,Black Ironwood,7,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,858,Fine Leather,53,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,1884,Silk,31,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+156,Fort-Royal,815,Salted pork,4706,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+159,Vieux-Fort,851,Black Ironwood,9,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+159,Vieux-Fort,43,Stone Block,666,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+161,Bridgetown,858,Fine Leather,30,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+161,Bridgetown,30,Lignum Vitae Log,1333,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+161,Bridgetown,807,Malabar Teak,400,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+161,Bridgetown,1866,Grapefruit,5000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+161,Bridgetown,1871,Mangoes,2618,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+161,Bridgetown,851,Black Ironwood,8,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+161,Bridgetown,858,Fine Leather,48,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+161,Bridgetown,1884,Silk,48,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+161,Bridgetown,815,Salted pork,4448,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+162,Kingstown,1871,Mangoes,2493,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+162,Kingstown,815,Salted pork,2606,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+162,Kingstown,1890,Molasses,1403,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+164,Saint George,1866,Grapefruit,2493,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+164,Saint George,1884,Silk,25,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+164,Saint George,26,Fir Log,2105,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+165,Scarborough,28,Hemp,1529,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,28,Hemp,1529,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,44,Teak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,1882,Tomato,5544,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,865,Coffee,56,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,1868,Quartz,55,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,1870,Mosaic,120,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,1851,Rubber,149,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,1889,Marble,30,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,857,Indigo,37,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,1861,Alligator hides,165,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,859,Maize,256,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+169,Puerto de España,812,Copper,14,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+170,La Blanquilla,866,Sulphur,509,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+171,La Orchilla,1844,Medicinal bark,509,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+172,Las Aves,864,Saltpeter,509,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+173,Fort Oranje,1868,Quartz,24,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+173,Fort Oranje,39,Oak Log,2067,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,887,Provisions,509,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,1882,Tomato,2606,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,865,Coffee,53,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,1868,Quartz,56,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,1870,Mosaic,216,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,1851,Rubber,120,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,1889,Marble,38,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,857,Indigo,30,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,1861,Alligator hides,147,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,859,Maize,413,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+174,Willemstad,812,Copper,7,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+175,Fort Zoutman,26,Fir Log,1529,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+176,Santo Tomé de Guayana,865,Coffee,24,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+176,Santo Tomé de Guayana,607,Tobacco,1033,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+177,Caño Araguao,39,Oak Log,2039,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,866,Sulphur,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,620,Fish Meat,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,26,Fir Log,37500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,1844,Medicinal bark,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,28,Hemp,37500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,1359,White Oak Log,18750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+179,Guayaguayare,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+180,Pedernales,812,Copper,7,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+180,Pedernales,29,Iron Ore,1550,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+181,Yaguaraparo,1861,Alligator hides,94,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+181,Yaguaraparo,887,Provisions,516,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+183,Galdonas,864,Saltpeter,599,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+185,Pampatar,620,Fish Meat,1198,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+187,La Tortuga,43,Stone Block,599,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+189,Cumaná,26,Fir Log,1798,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+191,Píritu,30,Lignum Vitae Log,1198,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+192,Río Chico,859,Maize,373,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+192,Río Chico,1890,Molasses,1381,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,29,Iron Ore,1798,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,1359,White Oak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,1882,Tomato,6275,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,865,Coffee,33,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,1868,Quartz,25,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,1870,Mosaic,118,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,1851,Rubber,175,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,1889,Marble,31,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,857,Indigo,36,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,1861,Alligator hides,149,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,859,Maize,554,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+193,Caracas,812,Copper,9,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+194,Puerto Cabello,43,Stone Block,599,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+196,Coro,1844,Medicinal bark,599,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+197,Mitara,28,Hemp,1798,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+197,Mitara,866,Sulphur,690,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+198,Casigua,607,Tobacco,1198,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+201,Gibraltar,1890,Molasses,1198,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+203,Perijá,1851,Rubber,149,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+203,Perijá,620,Fish Meat,1381,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,1889,Marble,38,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,30,Lignum Vitae Log,1381,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,1882,Tomato,6275,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,865,Coffee,33,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,1868,Quartz,25,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,1870,Mosaic,118,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,1851,Rubber,175,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,1889,Marble,31,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,857,Indigo,36,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,1861,Alligator hides,149,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,859,Maize,554,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+204,Maracaibo,812,Copper,9,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+207,Coquibacoa,1870,Mosaic,149,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+207,Coquibacoa,26,Fir Log,2071,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+208,Cabo de la Vela,30,Lignum Vitae Log,1198,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+208,Cabo de la Vela,1844,Medicinal bark,690,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+209,Río de la Hacha,857,Indigo,38,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+209,Río de la Hacha,887,Provisions,690,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+209,Río de la Hacha,866,Sulphur,747,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+210,Santa Marta,620,Fish Meat,1198,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+210,Santa Marta,607,Tobacco,1381,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,1882,Tomato,3919,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,29,Iron Ore,2071,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,1890,Molasses,1495,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,44,Teak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,1882,Tomato,2602,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,865,Coffee,30,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,1868,Quartz,44,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,1870,Mosaic,122,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,1851,Rubber,144,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,1889,Marble,38,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,857,Indigo,56,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,1861,Alligator hides,120,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,859,Maize,361,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+212,Cartagena de Indias,812,Copper,17,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+213,Tolú,864,Saltpeter,689,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+213,Tolú,43,Stone Block,614,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,26,Fir Log,37500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,1844,Medicinal bark,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,39,Oak Log,50000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,28,Hemp,37500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,866,Sulphur,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+214,Dariena,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+216,Canalete,28,Hemp,2067,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+216,Canalete,39,Oak Log,2456,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+218,Playón,887,Provisions,689,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+220,Portobelo,620,Fish Meat,1378,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+220,Portobelo,1359,White Oak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+220,Portobelo,824,Fine Fabrics,115,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+220,Portobelo,1840,Flannel,194,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+220,Portobelo,808,Wool,132,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+220,Portobelo,1891,Muskets,115,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+220,Portobelo,1854,Garlic,5283,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+222,Calobelo,43,Stone Block,689,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+222,Calobelo,866,Sulphur,614,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+223,Concepción,30,Lignum Vitae Log,1378,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+223,Concepción,607,Tobacco,1228,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+225,Almirante,26,Fir Log,2067,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+227,Matina,28,Hemp,2067,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+227,Matina,1844,Medicinal bark,614,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+228,San Juan del Norte,1890,Molasses,1378,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+230,Bluefields,1891,Muskets,203,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+230,Bluefields,29,Iron Ore,1842,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+230,Bluefields,864,Saltpeter,543,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+230,Bluefields,44,Teak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+230,Bluefields,824,Fine Fabrics,132,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+230,Bluefields,1840,Flannel,115,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+230,Bluefields,808,Wool,200,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+230,Bluefields,1891,Muskets,126,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+230,Bluefields,1854,Garlic,3711,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,43,Stone Block,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,887,Provisions,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,30,Lignum Vitae Log,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,29,Iron Ore,37500,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,864,Saltpeter,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+231,Great Corn,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+233,Great River,808,Wool,203,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+233,Great River,39,Oak Log,2456,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+235,Old Providence,1844,Medicinal bark,689,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+236,San Andrés,1890,Molasses,1378,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+237,Brangman's Bluff,824,Fine Fabrics,203,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+237,Brangman's Bluff,30,Lignum Vitae Log,1228,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+237,Brangman's Bluff,866,Sulphur,543,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+240,Gracias a Dios,39,Oak Log,2593,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+241,Croata,28,Hemp,1944,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+241,Croata,864,Saltpeter,714,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+243,Black River,1840,Flannel,178,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+243,Black River,620,Fish Meat,1429,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+244,Truxillo,26,Fir Log,1944,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+245,Bonacca,29,Iron Ore,1944,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+245,Bonacca,607,Tobacco,1429,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+246,Ruatan,43,Stone Block,648,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+250,Omoa,26,Fir Log,1944,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+252,Placentia,39,Oak Log,2593,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+253,Belize,1854,Garlic,4695,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+253,Belize,29,Iron Ore,2143,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+253,Belize,866,Sulphur,664,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+253,Belize,44,Teak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+253,Belize,824,Fine Fabrics,98,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+253,Belize,1840,Flannel,131,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+253,Belize,808,Wool,158,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+253,Belize,1891,Muskets,205,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+253,Belize,1854,Garlic,3138,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+254,Turneffe,28,Hemp,1944,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+254,Turneffe,607,Tobacco,1429,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+256,Salamanca,1826,Horses,45,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+256,Salamanca,620,Fish Meat,1429,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+257,Bensalem,887,Provisions,648,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+258,Chinchorro,30,Lignum Vitae Log,1296,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+259,Congrios,833,Honey,178,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+259,Congrios,1890,Molasses,1429,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+262,Xpu Ha,864,Saltpeter,648,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+263,Tantun Cuzamil,842,Red Chilli,447,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+263,Tantun Cuzamil,1844,Medicinal bark,714,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+264,Conil,1873,Aguayo cloth,178,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+264,Conil,43,Stone Block,714,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+266,Selam,620,Fish Meat,1296,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+266,Selam,866,Sulphur,714,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,1883,Potato,4695,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,39,Oak Log,2858,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,1359,White Oak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,1883,Potato,5928,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,853,Cocoa,98,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,805,Chile saltpeter,33,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,1873,Aguayo cloth,158,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,1845,Lumber,205,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,1826,Horses,30,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,833,Honey,215,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,1847,Beans,5184,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+268,Sisal,842,Red Chilli,378,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+269,Campeche,26,Fir Log,2213,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+270,Champotón,887,Provisions,737,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+271,Puerto Real,43,Stone Block,737,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+271,Puerto Real,607,Tobacco,1276,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+273,Victoria,805,Chile saltpeter,59,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+273,Victoria,28,Hemp,1914,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+273,Victoria,1890,Molasses,1421,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+274,Espíritu Santo,1845,Lumber,232,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+274,Espíritu Santo,30,Lignum Vitae Log,1276,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+274,Espíritu Santo,864,Saltpeter,710,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,1847,Beans,6121,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,29,Iron Ore,1914,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,1844,Medicinal bark,710,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,894,Mahogany Log,400,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,1883,Potato,3476,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,853,Cocoa,129,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,805,Chile saltpeter,46,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,1873,Aguayo cloth,209,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,1845,Lumber,116,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,1826,Horses,50,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,833,Honey,165,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,1847,Beans,5923,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+276,Vera Cruz,842,Red Chilli,478,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+296,Saint-Malo,43,Stone Block,737,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+296,Saint-Malo,607,Tobacco,1276,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,31,American Cotton,17,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,887,Provisions,638,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,44,Teak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,798,Kentucky Bourbon,35,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,1841,Buffalo hides,33,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,31,American Cotton,9,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,799,Oregon Beaver Coats,46,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,797,Carolina Tobacco,209,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,820,Sail duck,29,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+297,Nouvelle-Orléans,800,Vermont Maple Sugar,199,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+301,Penzacola,28,Hemp,2213,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+301,Penzacola,1890,Molasses,1276,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+303,San José,800,Vermont Maple Sugar,232,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+303,San José,39,Oak Log,2552,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+305,San Marcos,798,Kentucky Bourbon,59,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+305,San Marcos,26,Fir Log,1914,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+307,Las Sabinas,29,Iron Ore,2213,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+307,Las Sabinas,1844,Medicinal bark,638,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+309,Tampa,820,Sail duck,59,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+309,Tampa,30,Lignum Vitae Log,1276,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+309,Tampa,864,Saltpeter,710,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+311,Gasparilla,620,Fish Meat,1475,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+311,Gasparilla,866,Sulphur,638,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+313,Key West,1841,Buffalo hides,59,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+313,Key West,887,Provisions,638,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+314,Las Tortugas,799,Oregon Beaver Coats,59,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+314,Las Tortugas,39,Oak Log,2552,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+316,Islamorada,797,Carolina Tobacco,232,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+316,Islamorada,26,Fir Log,1914,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+318,Cabo Cañaveral,797,Carolina Tobacco,232,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+318,Cabo Cañaveral,887,Provisions,638,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+321,Ays,1841,Buffalo hides,52,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+321,Ays,29,Iron Ore,2215,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+321,Ays,1844,Medicinal bark,581,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+323,Cayo Biscayno,31,American Cotton,15,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+323,Cayo Biscayno,1890,Molasses,1477,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+326,San Agustín,30,Lignum Vitae Log,1394,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+326,San Agustín,864,Saltpeter,738,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+326,San Agustín,1359,White Oak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+329,Brunswick,800,Vermont Maple Sugar,208,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+329,Brunswick,26,Fir Log,2215,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+331,Savannah,799,Oregon Beaver Coats,52,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+331,Savannah,39,Oak Log,2954,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,820,Sail duck,52,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,43,Stone Block,738,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,607,Tobacco,1163,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,300,Live Oak Log,400,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,798,Kentucky Bourbon,25,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,1841,Buffalo hides,37,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,31,American Cotton,10,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,799,Oregon Beaver Coats,35,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,797,Carolina Tobacco,94,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,820,Sail duck,33,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+333,Charleston,800,Vermont Maple Sugar,172,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+334,Georgetown,798,Kentucky Bourbon,52,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+334,Georgetown,28,Hemp,2215,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+334,Georgetown,1890,Molasses,1163,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+335,Wilmington,620,Fish Meat,1394,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+335,Wilmington,866,Sulphur,738,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,853,Cocoa,208,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,39,Oak Log,50000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,28,Hemp,37500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,864,Saltpeter,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,1890,Molasses,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,44,Teak Log,18750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+343,Tumbado,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+348,Santanillas,887,Provisions,536,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+349,Serrana,2977,Grape Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+349,Serrana,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+349,Serrana,44,Teak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+350,Bone Cay,1854,Garlic,2922,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+350,Bone Cay,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+350,Bone Cay,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+350,Bone Cay,1359,White Oak Log,750,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+352,Pedro Cay,1840,Flannel,111,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+352,Pedro Cay,2976,Chain Ammo,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+352,Pedro Cay,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+352,Pedro Cay,365,Medicine,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+355,Saint George's Town,1837,Atlantic salmon,28,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+355,Saint George's Town,906,Bermuda Cedar,400,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+357,Kidd's Harbour,1846,Ambergris,28,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+358,Mangrove Cay,29,Iron Ore,37500,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+358,Mangrove Cay,1122,Rig Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+360,Water Bay,864,Saltpeter,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+360,Water Bay,1124,Hull Repairs,20000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+361,Crown Haven,43,Stone Block,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+361,Crown Haven,2975,Ball Ammo,500000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+362,Little Isaac Rocks,866,Sulphur,12500,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+363,La Desconocida,30,Lignum Vitae Log,25000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+364,William's Bay,39,Oak Log,50000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+364,William's Bay,2978,Gunpowder,950000,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+366,Shroud Cay,39,Oak Log,2147,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+369,Plymouth,1871,Mangoes,4349,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+369,Plymouth,887,Provisions,585,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+370,Island Harbour,1866,Grapefruit,4349,TRUE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json
+370,Island Harbour,29,Iron Ore,1757,FALSE,2026-08-14T20:06:11.965878Z,https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json

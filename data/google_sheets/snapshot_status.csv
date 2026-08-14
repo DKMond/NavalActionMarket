@@ -1,0 +1,2 @@
+snapshotUTC,server,serverLabel,provider,shard,discoveredPorts,successfulPorts,failedPorts,shopRows,contractRows,resourceRows,tradeGoodRows,shopsLastModified,shopsGeneration,shopsETag
+2026-08-14T20:06:11.965878Z,main,MAIN / CARIBBEAN,public-shard,cleanopenworldprodeu3,207,207,0,6072,331,677,280,"Fri, 14 Aug 2026 10:09:37 GMT",1786702177252195,"""5f150831eab297aba63d57bd610c8a38"""
