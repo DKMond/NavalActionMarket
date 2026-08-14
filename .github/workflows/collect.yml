@@ -17,6 +17,16 @@ on:
         required: false
         default: false
         type: boolean
+  push:
+    branches: [main]
+    paths:
+      - "naval_action_market/config.py"
+      - "naval_action_market/public_shard.py"
+      - "naval_action_market/routes.py"
+      - "naval_action_market/route_cli.py"
+      - "naval_action_market/cli.py"
+      - "naval_action_market/schema.py"
+      - ".github/workflows/collect.yml"
 
 # Automatic daily scheduling is intentionally not enabled until the user's
 # reset-time timezone is explicitly confirmed. The production data source no
@@ -42,7 +52,7 @@ jobs:
 
       - name: Collect snapshot
         env:
-          MARKET_PROVIDER: ${{ inputs.provider }}
+          MARKET_PROVIDER: ${{ inputs.provider || 'shard' }}
           NAAPI_BASE_URL: ${{ secrets.NAAPI_BASE_URL }}
           NAAPI_API_KEY: ${{ secrets.NAAPI_API_KEY }}
           NAAPI_SNAPSHOT_PATH: ${{ secrets.NAAPI_SNAPSHOT_PATH }}
@@ -50,7 +60,7 @@ jobs:
         run: python -m naval_action_market.cli --provider "$MARKET_PROVIDER"
 
       - name: Build default route preview
-        if: ${{ inputs.provider == 'shard' }}
+        if: ${{ (inputs.provider || 'shard') == 'shard' }}
         run: python -m naval_action_market.route_cli --snapshot data/latest.json --cargo 1000 --reals 1000000 --min-roi 0 --limit 100 --output data/latest_routes.json
 
       - name: Commit validated snapshot
