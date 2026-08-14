@@ -1,0 +1,590 @@
+{
+  "generatedAt": "2026-08-14T13:07:38.777063Z",
+  "startedAt": "2026-08-14T13:07:34.014237Z",
+  "manualObservation": {
+    "portId": 150,
+    "port": "Aves",
+    "observedAtApprox": "2026-08-14T15:57:00+03:00",
+    "source": "user-provided in-game shop screenshots",
+    "notes": "Screenshot values are player-facing Sell/Buy columns; '-' quantities are encoded as null."
+  },
+  "api": {
+    "shard": "cleanopenworldprodeu3",
+    "portName": "Aves",
+    "portNation": 5,
+    "portTax": 0.05,
+    "portsMeta": {
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json",
+      "etag": "\"9b0e424e34f6f1913d9c091f8e742a5d\"",
+      "lastModified": "Fri, 14 Aug 2026 10:09:37 GMT",
+      "generation": "1786702177584413",
+      "bytes": 672787
+    },
+    "shopsMeta": {
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json",
+      "etag": "\"5f150831eab297aba63d57bd610c8a38\"",
+      "lastModified": "Fri, 14 Aug 2026 10:09:37 GMT",
+      "generation": "1786702177252195",
+      "bytes": 1220088
+    },
+    "itemsMeta": {
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/ItemTemplates_cleanopenworldprodeu3.json",
+      "etag": "\"272d590d3e633b0f40ed37dead3ec8de\"",
+      "lastModified": "Fri, 14 Aug 2026 10:09:36 GMT",
+      "generation": "1786702176676755",
+      "bytes": 3819311
+    }
+  },
+  "navalGaming": {
+    "sourceUrl": "https://navalgaming.com/trading/market/?portid=150&server=main",
+    "marketRowsAtAves": 39,
+    "tradeGoodRowsAtAves": 1,
+    "resourceAddedRowsAtAves": 12
+  },
+  "summary": {
+    "observations": 14,
+    "itemResolved": 14,
+    "apiRegularItemResolved": 12,
+    "apiRawBuyPriceMatchesGame": 12,
+    "apiDerivedBuyQtyMatchesGame": 7,
+    "apiRawSellPriceMatchesGame": 12,
+    "apiDerivedSellQtyMatchesGame": 11,
+    "allFourApiUiFieldsMatch": 7
+  },
+  "rows": [
+    {
+      "observedName": "Fish Meat",
+      "itemId": 620,
+      "apiName": "Fish Meat",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Resources",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 161
+      },
+      "api": {
+        "TemplateId": 620,
+        "Quantity": 161,
+        "QuantityBought": 0,
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedGameBuyQty": 161,
+        "derivedGameSellQty": null,
+        "PriceTierQuantity": 12500,
+        "MaxQuantity": 2400000,
+        "ResetStockOnServerStart": false
+      },
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": null,
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    },
+    {
+      "observedName": "Molasses",
+      "itemId": 1890,
+      "apiName": "Molasses",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Resources",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 1
+      },
+      "api": {
+        "TemplateId": 1890,
+        "Quantity": 1,
+        "QuantityBought": 0,
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedGameBuyQty": 1,
+        "derivedGameSellQty": null,
+        "PriceTierQuantity": 12500,
+        "MaxQuantity": 2400000,
+        "ResetStockOnServerStart": false
+      },
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": null,
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    },
+    {
+      "observedName": "Tuna",
+      "itemId": 408,
+      "apiName": "Tuna",
+      "itemType": "ConvertibleItem",
+      "sortingGroup": "Resource.Fish",
+      "game": {
+        "sellPrice": 150,
+        "sellQty": 101,
+        "buyPrice": 1,
+        "buyQty": null
+      },
+      "api": {
+        "TemplateId": 408,
+        "Quantity": -1,
+        "QuantityBought": 0,
+        "BuyPrice": 1,
+        "SellPrice": 150,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": 101,
+        "IsContractsExist": true,
+        "derivedGameBuyQty": -1,
+        "derivedGameSellQty": 101,
+        "PriceTierQuantity": 5000,
+        "MaxQuantity": 5000,
+        "ResetStockOnServerStart": true
+      },
+      "navalGamingMarket": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 408,
+        "displayedName": "Tuna",
+        "category": "ConvertibleItem",
+        "supplyPrice": null,
+        "supplyQty": null,
+        "demandPrice": 150,
+        "demandQty": 101
+      },
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": null,
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    },
+    {
+      "observedName": "Bull Shark",
+      "itemId": 576,
+      "apiName": "Bull Shark",
+      "itemType": "ConvertibleItem",
+      "sortingGroup": "Resource.Fish",
+      "game": {
+        "sellPrice": 150,
+        "sellQty": 82,
+        "buyPrice": 1,
+        "buyQty": null
+      },
+      "api": {
+        "TemplateId": 576,
+        "Quantity": -1,
+        "QuantityBought": 0,
+        "BuyPrice": 1,
+        "SellPrice": 150,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": 101,
+        "IsContractsExist": true,
+        "derivedGameBuyQty": -1,
+        "derivedGameSellQty": 101,
+        "PriceTierQuantity": 5000,
+        "MaxQuantity": 5000,
+        "ResetStockOnServerStart": true
+      },
+      "navalGamingMarket": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 576,
+        "displayedName": "Bull Shark",
+        "category": "ConvertibleItem",
+        "supplyPrice": null,
+        "supplyQty": null,
+        "demandPrice": 150,
+        "demandQty": 101
+      },
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": null,
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": false
+      }
+    },
+    {
+      "observedName": "Malabar Teak",
+      "itemId": 807,
+      "apiName": "Malabar Teak",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Resources",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 1500,
+        "buyQty": 955
+      },
+      "api": {
+        "TemplateId": 807,
+        "Quantity": -1,
+        "QuantityBought": 0,
+        "BuyPrice": 1500,
+        "SellPrice": 1,
+        "BuyContractQuantity": 955,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedGameBuyQty": 955,
+        "derivedGameSellQty": null,
+        "PriceTierQuantity": 25000,
+        "MaxQuantity": 16000,
+        "ResetStockOnServerStart": false
+      },
+      "navalGamingMarket": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 807,
+        "displayedName": "Malabar Teak",
+        "category": "Resource",
+        "supplyPrice": 1500,
+        "supplyQty": 955,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": null,
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    },
+    {
+      "observedName": "Silver ingots",
+      "itemId": 1881,
+      "apiName": "Silver ingots",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Trading",
+      "game": {
+        "sellPrice": 1000,
+        "sellQty": null,
+        "buyPrice": 1095,
+        "buyQty": 4
+      },
+      "api": null,
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": null,
+      "error": "item absent from Aves RegularItems"
+    },
+    {
+      "observedName": "Languedoc Violins",
+      "itemId": 825,
+      "apiName": "Languedoc Violins",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Trading",
+      "game": {
+        "sellPrice": 1000,
+        "sellQty": null,
+        "buyPrice": 1093,
+        "buyQty": 3
+      },
+      "api": null,
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": null,
+      "error": "item absent from Aves RegularItems"
+    },
+    {
+      "observedName": "Tobacco",
+      "itemId": 607,
+      "apiName": "Tobacco",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Resources",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 3,
+        "buyQty": 2400000
+      },
+      "api": {
+        "TemplateId": 607,
+        "Quantity": 2400000,
+        "QuantityBought": 0,
+        "BuyPrice": 3,
+        "SellPrice": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedGameBuyQty": 2400000,
+        "derivedGameSellQty": null,
+        "PriceTierQuantity": 12500,
+        "MaxQuantity": 2400000,
+        "ResetStockOnServerStart": false
+      },
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 607,
+        "displayedName": "Tobacco",
+        "amount": 25000
+      },
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    },
+    {
+      "observedName": "Iron Ore",
+      "itemId": 29,
+      "apiName": "Iron Ore",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Resources",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 5,
+        "buyQty": 3600000
+      },
+      "api": {
+        "TemplateId": 29,
+        "Quantity": 3600000,
+        "QuantityBought": 0,
+        "BuyPrice": 5,
+        "SellPrice": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedGameBuyQty": 3600000,
+        "derivedGameSellQty": null,
+        "PriceTierQuantity": 5000,
+        "MaxQuantity": 3600000,
+        "ResetStockOnServerStart": false
+      },
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 29,
+        "displayedName": "Iron Ore",
+        "amount": 37500
+      },
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    },
+    {
+      "observedName": "Fishing Nets",
+      "itemId": 3222,
+      "apiName": "Fishing Nets",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Resources",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 121
+      },
+      "api": {
+        "TemplateId": 3222,
+        "Quantity": 119,
+        "QuantityBought": 0,
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedGameBuyQty": 119,
+        "derivedGameSellQty": null,
+        "PriceTierQuantity": 2000,
+        "MaxQuantity": 5000,
+        "ResetStockOnServerStart": false
+      },
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": null,
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    },
+    {
+      "observedName": "Salt",
+      "itemId": 621,
+      "apiName": "Salt",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Resources",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 134
+      },
+      "api": {
+        "TemplateId": 621,
+        "Quantity": 134,
+        "QuantityBought": 0,
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedGameBuyQty": 134,
+        "derivedGameSellQty": null,
+        "PriceTierQuantity": 2000,
+        "MaxQuantity": 5000,
+        "ResetStockOnServerStart": false
+      },
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": null,
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    },
+    {
+      "observedName": "Fishing Hooks",
+      "itemId": 3221,
+      "apiName": "Fishing Hooks",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Resources",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 100
+      },
+      "api": {
+        "TemplateId": 3221,
+        "Quantity": 99,
+        "QuantityBought": 0,
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedGameBuyQty": 99,
+        "derivedGameSellQty": null,
+        "PriceTierQuantity": 2000,
+        "MaxQuantity": 5000,
+        "ResetStockOnServerStart": false
+      },
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": null,
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    },
+    {
+      "observedName": "Oak Log",
+      "itemId": 39,
+      "apiName": "Oak Log",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Resources",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 3,
+        "buyQty": 4800000
+      },
+      "api": {
+        "TemplateId": 39,
+        "Quantity": 4800021,
+        "QuantityBought": 0,
+        "BuyPrice": 3,
+        "SellPrice": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedGameBuyQty": 4800021,
+        "derivedGameSellQty": null,
+        "PriceTierQuantity": 25000,
+        "MaxQuantity": 4800000,
+        "ResetStockOnServerStart": false
+      },
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 39,
+        "displayedName": "Oak Log",
+        "amount": 50000
+      },
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    },
+    {
+      "observedName": "Lignum Vitae Log",
+      "itemId": 30,
+      "apiName": "Lignum Vitae Log",
+      "itemType": "Resource",
+      "sortingGroup": "Resource.Resources",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 5,
+        "buyQty": 2400000
+      },
+      "api": {
+        "TemplateId": 30,
+        "Quantity": 2400000,
+        "QuantityBought": 0,
+        "BuyPrice": 5,
+        "SellPrice": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedGameBuyQty": 2400000,
+        "derivedGameSellQty": null,
+        "PriceTierQuantity": 7500,
+        "MaxQuantity": 2400000,
+        "ResetStockOnServerStart": false
+      },
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "navalGamingResourceAdded": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 30,
+        "displayedName": "Lignum Vitae Log",
+        "amount": 25000
+      },
+      "apiVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      }
+    }
+  ]
+}
