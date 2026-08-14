@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-14T13:44:12.360372Z",
-  "startedAt": "2026-08-14T13:44:07.544806Z",
+  "generatedAt": "2026-08-14T13:45:16.180733Z",
+  "startedAt": "2026-08-14T13:45:09.618380Z",
   "observationBatch": {
     "receivedApprox": "2026-08-14T16:41:00+03:00",
-    "source": "10 user-provided in-game screenshots"
+    "source": "10 user-provided in-game screenshots",
+    "note": "API Shops generation is the daily reset snapshot; NavalGaming pages were fetched during validation and are the closer-time comparator."
   },
   "api": {
     "shard": "cleanopenworldprodeu3",
@@ -28,55 +29,59 @@
   },
   "summary": {
     "observations": 70,
-    "apiAbsent": 14,
-    "buyPriceMatch": 49,
-    "sellPriceMatch": 56,
-    "buyQtyMatch": 28,
-    "sellQtyMatch": 52,
-    "FRESHNESS_MISMATCH": 21,
-    "SEMANTIC_MISMATCH": 7,
-    "PASS": 28
+    "apiAbsentAtReset": 14,
+    "ng_buyPriceMatch": 27,
+    "ng_buyQtyMatch": 20,
+    "ng_sellPriceMatch": 27,
+    "ng_sellQtyMatch": 23,
+    "api_buyPriceMatch": 49,
+    "api_sellPriceMatch": 56,
+    "api_buyQtyMatch": 36,
+    "api_sellQtyMatch": 52,
+    "API_TEMPORAL_QTY_DIVERGENCE": 13,
+    "API_RESET_MATCH": 36,
+    "API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE": 7
   },
   "byPort": {
     "Aves": {
       "observations": 14,
-      "apiAbsent": 7,
-      "buyPriceMatch": 6,
-      "sellPriceMatch": 7,
-      "buyQtyMatch": 0,
-      "sellQtyMatch": 7,
-      "FRESHNESS_MISMATCH": 6,
-      "SEMANTIC_MISMATCH": 1
+      "apiAbsentAtReset": 7,
+      "api_buyPriceMatch": 6,
+      "api_sellPriceMatch": 7,
+      "api_buyQtyMatch": 1,
+      "api_sellQtyMatch": 7,
+      "API_TEMPORAL_QTY_DIVERGENCE": 5,
+      "API_RESET_MATCH": 1,
+      "API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE": 1
     },
     "Pitt's Town": {
       "observations": 21,
-      "buyPriceMatch": 15,
-      "sellPriceMatch": 21,
-      "buyQtyMatch": 10,
-      "sellQtyMatch": 17,
-      "FRESHNESS_MISMATCH": 5,
-      "SEMANTIC_MISMATCH": 6,
-      "PASS": 10
+      "api_buyPriceMatch": 15,
+      "api_sellPriceMatch": 21,
+      "api_buyQtyMatch": 10,
+      "api_sellQtyMatch": 17,
+      "API_TEMPORAL_QTY_DIVERGENCE": 5,
+      "API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE": 6,
+      "API_RESET_MATCH": 10
     },
     "La Mona": {
       "observations": 21,
-      "buyPriceMatch": 20,
-      "sellPriceMatch": 20,
-      "buyQtyMatch": 13,
-      "sellQtyMatch": 20,
-      "FRESHNESS_MISMATCH": 7,
-      "PASS": 13,
-      "apiAbsent": 1
+      "api_buyPriceMatch": 20,
+      "api_sellPriceMatch": 20,
+      "api_buyQtyMatch": 20,
+      "api_sellQtyMatch": 20,
+      "API_RESET_MATCH": 20,
+      "apiAbsentAtReset": 1
     },
     "Saint John's": {
       "observations": 14,
-      "buyPriceMatch": 8,
-      "sellPriceMatch": 8,
-      "buyQtyMatch": 5,
-      "sellQtyMatch": 8,
-      "FRESHNESS_MISMATCH": 3,
-      "PASS": 5,
-      "apiAbsent": 6
+      "api_buyPriceMatch": 8,
+      "api_sellPriceMatch": 8,
+      "api_buyQtyMatch": 5,
+      "api_sellQtyMatch": 8,
+      "API_TEMPORAL_QTY_DIVERGENCE": 3,
+      "API_RESET_MATCH": 5,
+      "apiAbsentAtReset": 6
     }
   },
   "rows": [
@@ -95,7 +100,7 @@
       "sortingGroup": "Resource.Trading",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 150,
@@ -112,7 +117,7 @@
       "sortingGroup": "Resource.Trading",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 150,
@@ -129,7 +134,7 @@
       "sortingGroup": "Resource.Trading",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 150,
@@ -146,7 +151,7 @@
       "sortingGroup": "Resource.Trading",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 150,
@@ -163,7 +168,7 @@
       "sortingGroup": "Resource.Trading",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 150,
@@ -180,7 +185,7 @@
       "sortingGroup": "Resource.Fish",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 150,
@@ -197,7 +202,7 @@
       "sortingGroup": "Resource.Fish",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 150,
@@ -224,6 +229,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 3,
         "SellPrice": 1,
@@ -231,16 +242,16 @@
         "BuyContractQuantity": 102,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 581686,
+        "derivedBuyQty": 102,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 150,
@@ -267,6 +278,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 266,
         "SellPrice": 1,
@@ -274,16 +291,16 @@
         "BuyContractQuantity": 1734,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 20000,
+        "derivedBuyQty": 1734,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 150,
@@ -310,6 +327,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 15,
         "SellPrice": 1,
@@ -317,16 +340,16 @@
         "BuyContractQuantity": 11444,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 24409,
+        "derivedBuyQty": 11444,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
-        "buyQty": false,
+        "buyQty": true,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 150,
@@ -353,6 +376,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": false,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 199,
         "SellPrice": 1,
@@ -360,16 +389,16 @@
         "BuyContractQuantity": 280,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 24181,
+        "derivedBuyQty": 280,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": false,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "SEMANTIC_MISMATCH"
+      "status": "API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE"
     },
     {
       "portId": 150,
@@ -396,6 +425,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 60,
         "SellPrice": 1,
@@ -403,16 +438,16 @@
         "BuyContractQuantity": 1946,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 26000,
+        "derivedBuyQty": 1946,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 150,
@@ -439,13 +474,13 @@
         "derivedBuyQty": 20000,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 150,
@@ -472,6 +507,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 3,
         "SellPrice": 1,
@@ -479,16 +520,16 @@
         "BuyContractQuantity": 39864,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 962695,
+        "derivedBuyQty": 39864,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -515,6 +556,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 3,
         "SellPrice": 1,
@@ -522,16 +569,16 @@
         "BuyContractQuantity": 11330,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 1163500,
+        "derivedBuyQty": 11330,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -558,6 +605,12 @@
         "demandQty": 1436
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": false,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 70,
         "SellPrice": 7,
@@ -565,16 +618,16 @@
         "BuyContractQuantity": 342,
         "SellContractQuantity": 1436,
         "IsContractsExist": true,
-        "derivedBuyQty": 37659,
+        "derivedBuyQty": 342,
         "derivedSellQty": 1436
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": false,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "SEMANTIC_MISMATCH"
+      "status": "API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -601,6 +654,12 @@
         "demandQty": 526
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": false,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 269,
         "SellPrice": 22,
@@ -608,16 +667,16 @@
         "BuyContractQuantity": 50,
         "SellContractQuantity": 526,
         "IsContractsExist": true,
-        "derivedBuyQty": 22773,
+        "derivedBuyQty": 50,
         "derivedSellQty": 526
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": false,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "SEMANTIC_MISMATCH"
+      "status": "API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -644,6 +703,12 @@
         "demandQty": 471
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": false,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 248,
         "SellPrice": 22,
@@ -651,16 +716,16 @@
         "BuyContractQuantity": 550,
         "SellContractQuantity": 471,
         "IsContractsExist": true,
-        "derivedBuyQty": 22733,
+        "derivedBuyQty": 550,
         "derivedSellQty": 471
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": false,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "SEMANTIC_MISMATCH"
+      "status": "API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -687,6 +752,12 @@
         "demandQty": 1899
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": false,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": false
+      },
       "api": {
         "BuyPrice": 43,
         "SellPrice": 5,
@@ -694,16 +765,16 @@
         "BuyContractQuantity": 819,
         "SellContractQuantity": 1899,
         "IsContractsExist": true,
-        "derivedBuyQty": 102599,
+        "derivedBuyQty": 819,
         "derivedSellQty": 1899
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": false,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": false
       },
-      "status": "SEMANTIC_MISMATCH"
+      "status": "API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -730,6 +801,12 @@
         "demandQty": 1615
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 49,
         "SellPrice": 5,
@@ -737,16 +814,16 @@
         "BuyContractQuantity": 4180,
         "SellContractQuantity": 1615,
         "IsContractsExist": true,
-        "derivedBuyQty": 45234,
+        "derivedBuyQty": 4180,
         "derivedSellQty": 1615
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -773,6 +850,12 @@
         "demandQty": 15669
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": false,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 4,
         "SellPrice": 2,
@@ -780,16 +863,16 @@
         "BuyContractQuantity": 18800,
         "SellContractQuantity": 15669,
         "IsContractsExist": true,
-        "derivedBuyQty": 500000,
+        "derivedBuyQty": 18800,
         "derivedSellQty": 15669
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": false,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "SEMANTIC_MISMATCH"
+      "status": "API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -814,6 +897,10 @@
         "qty": 12549,
         "weight": 17.5
       },
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true
+      },
       "api": {
         "BuyPrice": 249,
         "SellPrice": 124,
@@ -824,13 +911,13 @@
         "derivedBuyQty": 12549,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 23,
@@ -855,6 +942,10 @@
         "qty": 4232,
         "weight": 35
       },
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": false
+      },
       "api": {
         "BuyPrice": 518,
         "SellPrice": 259,
@@ -865,13 +956,13 @@
         "derivedBuyQty": 4232,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -896,6 +987,10 @@
         "qty": 54943,
         "weight": 1.17
       },
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true
+      },
       "api": {
         "BuyPrice": 16,
         "SellPrice": 8,
@@ -906,13 +1001,13 @@
         "derivedBuyQty": 54943,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 23,
@@ -937,6 +1032,10 @@
         "qty": 12729,
         "weight": 17.5
       },
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true
+      },
       "api": {
         "BuyPrice": 249,
         "SellPrice": 124,
@@ -947,13 +1046,13 @@
         "derivedBuyQty": 12729,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 23,
@@ -978,6 +1077,10 @@
         "qty": 12549,
         "weight": 17.5
       },
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true
+      },
       "api": {
         "BuyPrice": 249,
         "SellPrice": 124,
@@ -988,13 +1091,13 @@
         "derivedBuyQty": 12549,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 23,
@@ -1019,6 +1122,10 @@
         "qty": 4232,
         "weight": 35
       },
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true
+      },
       "api": {
         "BuyPrice": 518,
         "SellPrice": 259,
@@ -1029,13 +1136,13 @@
         "derivedBuyQty": 4232,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 23,
@@ -1060,6 +1167,10 @@
         "qty": 4232,
         "weight": 35
       },
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true
+      },
       "api": {
         "BuyPrice": 518,
         "SellPrice": 259,
@@ -1070,13 +1181,13 @@
         "derivedBuyQty": 4232,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 23,
@@ -1103,6 +1214,12 @@
         "demandQty": 5000
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": false,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": false
+      },
       "api": {
         "BuyPrice": 16,
         "SellPrice": 6,
@@ -1113,13 +1230,13 @@
         "derivedBuyQty": 8107,
         "derivedSellQty": 5000
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": false,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": false
       },
-      "status": "SEMANTIC_MISMATCH"
+      "status": "API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -1146,6 +1263,12 @@
         "demandQty": 1442
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": false
+      },
       "api": {
         "BuyPrice": 49,
         "SellPrice": 6,
@@ -1156,13 +1279,13 @@
         "derivedBuyQty": 6481,
         "derivedSellQty": 1442
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": false
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -1189,6 +1312,12 @@
         "demandQty": 5858
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": false,
+        "sellPrice": true,
+        "sellQty": false
+      },
       "api": {
         "BuyPrice": 10,
         "SellPrice": 3,
@@ -1199,13 +1328,13 @@
         "derivedBuyQty": 9628,
         "derivedSellQty": 5858
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": false
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 23,
@@ -1232,6 +1361,12 @@
         "demandQty": 2000
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": false,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 15,
         "SellPrice": 186,
@@ -1242,13 +1377,13 @@
         "derivedBuyQty": null,
         "derivedSellQty": 2000
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 23,
@@ -1275,6 +1410,12 @@
         "demandQty": 1465
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 100,
         "SellPrice": 2,
@@ -1285,13 +1426,13 @@
         "derivedBuyQty": 1700,
         "derivedSellQty": 1465
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 23,
@@ -1318,6 +1459,12 @@
         "demandQty": 123
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": false,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 1,
         "SellPrice": 665,
@@ -1328,13 +1475,13 @@
         "derivedBuyQty": null,
         "derivedSellQty": 123
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 23,
@@ -1361,6 +1508,12 @@
         "demandQty": 121
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 3000,
         "SellPrice": 385,
@@ -1371,13 +1524,13 @@
         "derivedBuyQty": 100,
         "derivedSellQty": 121
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1404,6 +1557,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 80,
         "SellPrice": 1,
@@ -1411,16 +1570,16 @@
         "BuyContractQuantity": 3860,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 20338,
+        "derivedBuyQty": 3860,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
-        "buyQty": false,
+        "buyQty": true,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1447,6 +1606,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 12,
         "SellPrice": 1,
@@ -1454,16 +1619,16 @@
         "BuyContractQuantity": 15370,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 20000,
+        "derivedBuyQty": 15370,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
-        "buyQty": false,
+        "buyQty": true,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1490,6 +1655,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 4,
         "SellPrice": 1,
@@ -1497,16 +1668,16 @@
         "BuyContractQuantity": 15000,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 503566,
+        "derivedBuyQty": 15000,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
-        "buyQty": false,
+        "buyQty": true,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1533,6 +1704,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 100,
         "SellPrice": 1,
@@ -1540,16 +1717,16 @@
         "BuyContractQuantity": 4068,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 20371,
+        "derivedBuyQty": 4068,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
-        "buyQty": false,
+        "buyQty": true,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1576,6 +1753,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 3,
         "SellPrice": 1,
@@ -1583,16 +1766,16 @@
         "BuyContractQuantity": 45000,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 966363,
+        "derivedBuyQty": 45000,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
-        "buyQty": false,
+        "buyQty": true,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1619,6 +1802,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 20,
         "SellPrice": 1,
@@ -1626,16 +1815,16 @@
         "BuyContractQuantity": 3705,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 25000,
+        "derivedBuyQty": 3705,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
-        "buyQty": false,
+        "buyQty": true,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1662,6 +1851,12 @@
         "demandQty": null
       },
       "navalGamingTradeGood": null,
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true,
+        "sellPrice": true,
+        "sellQty": true
+      },
       "api": {
         "BuyPrice": 12,
         "SellPrice": 1,
@@ -1669,16 +1864,16 @@
         "BuyContractQuantity": 18326,
         "SellContractQuantity": -1,
         "IsContractsExist": true,
-        "derivedBuyQty": 20040,
+        "derivedBuyQty": 18326,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
-        "buyQty": false,
+        "buyQty": true,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1705,13 +1900,13 @@
         "derivedBuyQty": 2400060,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1738,13 +1933,13 @@
         "derivedBuyQty": 1808097,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1771,13 +1966,13 @@
         "derivedBuyQty": 1200000,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1802,6 +1997,10 @@
         "qty": 4527,
         "weight": 35
       },
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true
+      },
       "api": {
         "BuyPrice": 518,
         "SellPrice": 259,
@@ -1812,13 +2011,13 @@
         "derivedBuyQty": 4527,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1845,13 +2044,13 @@
         "derivedBuyQty": 829,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1878,13 +2077,13 @@
         "derivedBuyQty": 802,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1911,13 +2110,13 @@
         "derivedBuyQty": 1200000,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1944,13 +2143,13 @@
         "derivedBuyQty": 6,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -1977,13 +2176,13 @@
         "derivedBuyQty": 12,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -2010,13 +2209,13 @@
         "derivedBuyQty": 6,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -2043,13 +2242,13 @@
         "derivedBuyQty": 146,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -2076,13 +2275,13 @@
         "derivedBuyQty": 3,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -2109,13 +2308,13 @@
         "derivedBuyQty": 1,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 112,
@@ -2132,7 +2331,7 @@
       "sortingGroup": "Resource.Trading",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 140,
@@ -2159,13 +2358,13 @@
         "derivedBuyQty": 1645891,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 140,
@@ -2192,13 +2391,13 @@
         "derivedBuyQty": 3593856,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 140,
@@ -2225,13 +2424,13 @@
         "derivedBuyQty": 421,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": false,
         "sellQty": true
       },
-      "status": "FRESHNESS_MISMATCH"
+      "status": "API_TEMPORAL_QTY_DIVERGENCE"
     },
     {
       "portId": 140,
@@ -2258,13 +2457,13 @@
         "derivedBuyQty": 526,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 140,
@@ -2289,6 +2488,10 @@
         "qty": 1530,
         "weight": 116.67
       },
+      "navalGamingVsGame": {
+        "buyPrice": true,
+        "buyQty": true
+      },
       "api": {
         "BuyPrice": 1727,
         "SellPrice": 863,
@@ -2299,13 +2502,13 @@
         "derivedBuyQty": 1530,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 140,
@@ -2332,13 +2535,13 @@
         "derivedBuyQty": 213,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 140,
@@ -2365,13 +2568,13 @@
         "derivedBuyQty": 1,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 140,
@@ -2398,13 +2601,13 @@
         "derivedBuyQty": 17,
         "derivedSellQty": null
       },
-      "matches": {
+      "apiVsGame": {
         "buyPrice": true,
         "sellPrice": true,
         "buyQty": true,
         "sellQty": true
       },
-      "status": "PASS"
+      "status": "API_RESET_MATCH"
     },
     {
       "portId": 140,
@@ -2421,7 +2624,7 @@
       "sortingGroup": "Resource.Ammo",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 140,
@@ -2438,7 +2641,7 @@
       "sortingGroup": "",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 140,
@@ -2455,7 +2658,7 @@
       "sortingGroup": "",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 140,
@@ -2472,7 +2675,7 @@
       "sortingGroup": "Resource.Ammo",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 140,
@@ -2489,7 +2692,7 @@
       "sortingGroup": "Resource.Food",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     },
     {
       "portId": 140,
@@ -2506,7 +2709,7 @@
       "sortingGroup": "Resource.Ammo",
       "navalGamingMarket": null,
       "navalGamingTradeGood": null,
-      "status": "API_ABSENT"
+      "status": "API_ABSENT_AT_RESET"
     }
   ]
 }
