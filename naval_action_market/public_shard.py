@@ -113,12 +113,11 @@ def _as_int(value: Any) -> Optional[int]:
         return None
 
 
-def _available_buy_qty(row: Dict[str, Any]) -> Optional[int]:
-    """Player-facing Buy quantity derived from validated in-game observations.
+def _item_weight(item: Dict[str, Any]) -> Any:
+    return item.get("ItemWeight", item.get("Weight"))
 
-    If an active buy-side contract quantity exists, the client exposes that quantity.
-    Otherwise it exposes ordinary shop Quantity. Sentinel -1 means unavailable.
-    """
+
+def _available_buy_qty(row: Dict[str, Any]) -> Optional[int]:
     contract_qty = _as_int(row.get("BuyContractQuantity"))
     if bool(row.get("IsContractsExist")) and contract_qty is not None and contract_qty >= 0:
         return contract_qty
@@ -132,21 +131,9 @@ def _available_sell_qty(row: Dict[str, Any]) -> Optional[int]:
 
 
 class PublicShardProvider(BaseProvider):
-    """Production adapter for the public Naval Action MAIN/Caribbean shard.
-
-    The current MAIN shard is ``cleanopenworldprodeu3``. The provider keeps raw
-    shop fields alongside derived player-facing fields so later discoveries do not
-    invalidate historical snapshots.
-    """
-
     name = "public-shard"
 
-    def __init__(
-        self,
-        bucket: str = PUBLIC_BUCKET,
-        shard: str = MAIN_SHARD,
-        timeout: int = 90,
-    ) -> None:
+    def __init__(self, bucket: str = PUBLIC_BUCKET, shard: str = MAIN_SHARD, timeout: int = 90) -> None:
         self.bucket = bucket.rstrip("/")
         self.shard = shard
         self.timeout = timeout
@@ -227,7 +214,7 @@ class PublicShardProvider(BaseProvider):
                 "name": raw.get("Name") or raw.get("name"),
                 "itemType": raw.get("ItemType"),
                 "sortingGroup": raw.get("SortingGroup"),
-                "weight": raw.get("Weight"),
+                "weight": _item_weight(raw),
                 "basePrice": raw.get("BasePrice"),
                 "priceTierQuantity": raw.get("PriceTierQuantity"),
                 "maxQuantity": raw.get("MaxQuantity"),
@@ -271,7 +258,7 @@ class PublicShardProvider(BaseProvider):
                     "itemName": item.get("Name") or item.get("name"),
                     "itemType": item.get("ItemType"),
                     "sortingGroup": item.get("SortingGroup"),
-                    "weight": item.get("Weight"),
+                    "weight": _item_weight(item),
                     "active114": item_id in ACTIVE_TRADE_ITEM_IDS,
                     "gameBuyPrice": buy_price,
                     "gameBuyQty": buy_qty,
@@ -317,7 +304,7 @@ class PublicShardProvider(BaseProvider):
                         "qty": buy_qty,
                         "sellPrice": sell_price,
                         "sellQty": sell_qty,
-                        "weight": item.get("Weight"),
+                        "weight": _item_weight(item),
                         "active114": item_id in ACTIVE_TRADE_ITEM_IDS,
                     })
 
@@ -325,7 +312,10 @@ class PublicShardProvider(BaseProvider):
                 if not isinstance(raw_resource, dict):
                     continue
                 item_id = _as_int(
-                    raw_resource.get("TemplateId", raw_resource.get("ItemId", raw_resource.get("Id")))
+                    raw_resource.get(
+                        "Template",
+                        raw_resource.get("TemplateId", raw_resource.get("ItemId", raw_resource.get("Id"))),
+                    )
                 )
                 if item_id is None:
                     continue
@@ -345,7 +335,6 @@ class PublicShardProvider(BaseProvider):
         for port_id in missing_shop_ports:
             failures.append({"portId": port_id, "error": "port missing from Shops object"})
 
-        finished = utc_now_iso()
         return {
             "metadata": {
                 "schemaVersion": SCHEMA_VERSION,
@@ -354,7 +343,7 @@ class PublicShardProvider(BaseProvider):
                 "provider": self.name,
                 "shard": self.shard,
                 "startedAt": started,
-                "finishedAt": finished,
+                "finishedAt": utc_now_iso(),
                 "discoveredPorts": len(ports),
                 "successfulPorts": len(seen_shop_ports),
                 "failedPorts": len(failures),
