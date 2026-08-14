@@ -6,12 +6,17 @@ import os
 from pathlib import Path
 
 from .providers import DirectAPIConfig, DirectAPIProvider, NavalGamingHTMLProvider, ProviderError
+from .public_shard import PublicShardProvider
 from .schema import validate_snapshot
 
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Collect a Naval Action MAIN market snapshot")
-    parser.add_argument("--provider", choices=["api", "html"], default=os.getenv("MARKET_PROVIDER", "api"))
+    parser.add_argument(
+        "--provider",
+        choices=["shard", "api", "html"],
+        default=os.getenv("MARKET_PROVIDER", "shard"),
+    )
     parser.add_argument("--output", default="data/latest.json")
     parser.add_argument(
         "--allow-html",
@@ -28,7 +33,9 @@ def build_parser() -> argparse.ArgumentParser:
 def main() -> int:
     args = build_parser().parse_args()
 
-    if args.provider == "html":
+    if args.provider == "shard":
+        provider = PublicShardProvider()
+    elif args.provider == "html":
         if not args.allow_html and os.getenv("ALLOW_HTML_COLLECTOR") != "1":
             raise SystemExit(
                 "HTML collection is disabled by default. Use --allow-html only after authorization is confirmed."
