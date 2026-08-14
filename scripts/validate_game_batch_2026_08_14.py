@@ -79,12 +79,17 @@ def resolve(items,name):
     return None
 
 def buy_qty(r):
-    if r.get("Quantity") == -1:
-        q=r.get("BuyContractQuantity"); return None if q == -1 else q
+    # When a buy-side player contract exists, the game exposes the contract quantity,
+    # even when the underlying server Quantity is also populated.
+    q=r.get("BuyContractQuantity")
+    if r.get("IsContractsExist") and q not in (None,-1): return q
+    if r.get("Quantity") == -1: return None if q == -1 else q
     return r.get("Quantity")
 
 def sell_qty(r):
     q=r.get("SellContractQuantity"); return None if q == -1 else q
+
+def same(a,b): return a == b
 
 def main():
     started=now(); ports,pm=fetch("Ports"); shops,sm=fetch("Shops"); items,im=fetch("ItemTemplates")
@@ -103,19 +108,31 @@ def main():
             if not it:
                 out["status"]="ITEM_UNRESOLVED"; counts["itemUnresolved"]+=1; rows.append(out); continue
             iid=int(it["Id"]); out.update({"itemId":iid,"apiName":it.get("Name"),"sortingGroup":it.get("SortingGroup")})
-            raw=reg.get(iid); out["navalGamingMarket"]=ngm.get(iid); out["navalGamingTradeGood"]=ngg.get(iid)
+            raw=reg.get(iid); ng_market=ngm.get(iid); ng_good=ngg.get(iid)
+            out["navalGamingMarket"]=ng_market; out["navalGamingTradeGood"]=ng_good
+
+            # Score near-live NavalGaming against the screenshot whenever it exposes that row.
+            if ng_market:
+                ng_matches={"buyPrice":same(ng_market.get("supplyPrice"),gbp),"buyQty":same(ng_market.get("supplyQty"),gbq),"sellPrice":same(ng_market.get("demandPrice"),gsp if gsq is not None else None),"sellQty":same(ng_market.get("demandQty"),gsq)}
+                out["navalGamingVsGame"]=ng_matches
+                for k,v in ng_matches.items(): counts["ng_"+k+"Match"]+=int(v)
+            elif ng_good:
+                ng_matches={"buyPrice":same(ng_good.get("price"),gbp),"buyQty":same(ng_good.get("qty"),gbq)}
+                out["navalGamingVsGame"]=ng_matches
+                for k,v in ng_matches.items(): counts["ng_"+k+"Match"]+=int(v)
+
             if not raw:
-                out["status"]="API_ABSENT"; counts["apiAbsent"]+=1; by_port[spec["port"]]["apiAbsent"]+=1; rows.append(out); continue
+                out["status"]="API_ABSENT_AT_RESET"; counts["apiAbsentAtReset"]+=1; by_port[spec["port"]]["apiAbsentAtReset"]+=1; rows.append(out); continue
             api={"BuyPrice":raw.get("BuyPrice"),"SellPrice":raw.get("SellPrice"),"Quantity":raw.get("Quantity"),"BuyContractQuantity":raw.get("BuyContractQuantity"),"SellContractQuantity":raw.get("SellContractQuantity"),"IsContractsExist":raw.get("IsContractsExist"),"derivedBuyQty":buy_qty(raw),"derivedSellQty":sell_qty(raw)}
             out["api"]=api
-            m={"buyPrice":api["BuyPrice"]==gbp,"sellPrice":api["SellPrice"]==gsp,"buyQty":api["derivedBuyQty"]==gbq,"sellQty":api["derivedSellQty"]==gsq}
-            out["matches"]=m
-            for k,v in m.items(): counts[k+"Match"]+=int(v); by_port[spec["port"]][k+"Match"]+=int(v)
-            if m["buyPrice"] and m["sellPrice"] and m["buyQty"] and m["sellQty"]: st="PASS"
-            elif m["buyPrice"] and m["sellPrice"]: st="FRESHNESS_MISMATCH"
-            else: st="SEMANTIC_MISMATCH"
+            m={"buyPrice":same(api["BuyPrice"],gbp),"sellPrice":same(api["SellPrice"],gsp),"buyQty":same(api["derivedBuyQty"],gbq),"sellQty":same(api["derivedSellQty"],gsq)}
+            out["apiVsGame"]=m
+            for k,v in m.items(): counts["api_"+k+"Match"]+=int(v); by_port[spec["port"]]["api_"+k+"Match"]+=int(v)
+            if all(m.values()): st="API_RESET_MATCH"
+            elif m["buyPrice"] and m["sellPrice"]: st="API_TEMPORAL_QTY_DIVERGENCE"
+            else: st="API_TEMPORAL_PRICE_OR_STATE_DIVERGENCE"
             out["status"]=st; counts[st]+=1; by_port[spec["port"]][st]+=1; rows.append(out)
-    report={"generatedAt":now(),"startedAt":started,"observationBatch":{"receivedApprox":"2026-08-14T16:41:00+03:00","source":"10 user-provided in-game screenshots"},"api":{"shard":SHARD,"ports":pm,"shops":sm,"items":im},"summary":dict(counts),"byPort":{k:dict(v) for k,v in by_port.items()},"rows":rows}
+    report={"generatedAt":now(),"startedAt":started,"observationBatch":{"receivedApprox":"2026-08-14T16:41:00+03:00","source":"10 user-provided in-game screenshots","note":"API Shops generation is the daily reset snapshot; NavalGaming pages were fetched during validation and are the closer-time comparator."},"api":{"shard":SHARD,"ports":pm,"shops":sm,"items":im},"summary":dict(counts),"byPort":{k:dict(v) for k,v in by_port.items()},"rows":rows}
     OUT.parent.mkdir(parents=True,exist_ok=True); OUT.write_text(json.dumps(report,indent=2,ensure_ascii=False)+"\n",encoding="utf-8")
     print(json.dumps({"report":str(OUT),"summary":dict(counts),"byPort":report["byPort"]},indent=2,ensure_ascii=False))
 
