@@ -1,0 +1,2512 @@
+{
+  "generatedAt": "2026-08-14T13:44:12.360372Z",
+  "startedAt": "2026-08-14T13:44:07.544806Z",
+  "observationBatch": {
+    "receivedApprox": "2026-08-14T16:41:00+03:00",
+    "source": "10 user-provided in-game screenshots"
+  },
+  "api": {
+    "shard": "cleanopenworldprodeu3",
+    "ports": {
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json",
+      "etag": "\"9b0e424e34f6f1913d9c091f8e742a5d\"",
+      "lastModified": "Fri, 14 Aug 2026 10:09:37 GMT",
+      "generation": "1786702177584413"
+    },
+    "shops": {
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json",
+      "etag": "\"5f150831eab297aba63d57bd610c8a38\"",
+      "lastModified": "Fri, 14 Aug 2026 10:09:37 GMT",
+      "generation": "1786702177252195"
+    },
+    "items": {
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/ItemTemplates_cleanopenworldprodeu3.json",
+      "etag": "\"272d590d3e633b0f40ed37dead3ec8de\"",
+      "lastModified": "Fri, 14 Aug 2026 10:09:36 GMT",
+      "generation": "1786702176676755"
+    }
+  },
+  "summary": {
+    "observations": 70,
+    "apiAbsent": 14,
+    "buyPriceMatch": 49,
+    "sellPriceMatch": 56,
+    "buyQtyMatch": 28,
+    "sellQtyMatch": 52,
+    "FRESHNESS_MISMATCH": 21,
+    "SEMANTIC_MISMATCH": 7,
+    "PASS": 28
+  },
+  "byPort": {
+    "Aves": {
+      "observations": 14,
+      "apiAbsent": 7,
+      "buyPriceMatch": 6,
+      "sellPriceMatch": 7,
+      "buyQtyMatch": 0,
+      "sellQtyMatch": 7,
+      "FRESHNESS_MISMATCH": 6,
+      "SEMANTIC_MISMATCH": 1
+    },
+    "Pitt's Town": {
+      "observations": 21,
+      "buyPriceMatch": 15,
+      "sellPriceMatch": 21,
+      "buyQtyMatch": 10,
+      "sellQtyMatch": 17,
+      "FRESHNESS_MISMATCH": 5,
+      "SEMANTIC_MISMATCH": 6,
+      "PASS": 10
+    },
+    "La Mona": {
+      "observations": 21,
+      "buyPriceMatch": 20,
+      "sellPriceMatch": 20,
+      "buyQtyMatch": 13,
+      "sellQtyMatch": 20,
+      "FRESHNESS_MISMATCH": 7,
+      "PASS": 13,
+      "apiAbsent": 1
+    },
+    "Saint John's": {
+      "observations": 14,
+      "buyPriceMatch": 8,
+      "sellPriceMatch": 8,
+      "buyQtyMatch": 5,
+      "sellQtyMatch": 8,
+      "FRESHNESS_MISMATCH": 3,
+      "PASS": 5,
+      "apiAbsent": 6
+    }
+  },
+  "rows": [
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Madagascar Jewels",
+      "game": {
+        "sellPrice": 1000,
+        "sellQty": null,
+        "buyPrice": 1083,
+        "buyQty": 29
+      },
+      "itemId": 845,
+      "apiName": "Madagascar Jewels",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Gold ingots",
+      "game": {
+        "sellPrice": 1000,
+        "sellQty": null,
+        "buyPrice": 1062,
+        "buyQty": 10
+      },
+      "itemId": 846,
+      "apiName": "Gold ingots",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Chinese tea",
+      "game": {
+        "sellPrice": 1000,
+        "sellQty": null,
+        "buyPrice": 1091,
+        "buyQty": 10
+      },
+      "itemId": 1875,
+      "apiName": "Chinese tea",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Flannel",
+      "game": {
+        "sellPrice": 4,
+        "sellQty": null,
+        "buyPrice": 552,
+        "buyQty": 8
+      },
+      "itemId": 1840,
+      "apiName": "Flannel",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "European books",
+      "game": {
+        "sellPrice": 1000,
+        "sellQty": null,
+        "buyPrice": 1064,
+        "buyQty": 4
+      },
+      "itemId": 1924,
+      "apiName": "European books",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Pompano",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 1,
+        "buyQty": 46
+      },
+      "itemId": 405,
+      "apiName": "Pompano",
+      "sortingGroup": "Resource.Fish",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Flounder",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 1,
+        "buyQty": 22
+      },
+      "itemId": 406,
+      "apiName": "Flounder",
+      "sortingGroup": "Resource.Fish",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Ball Ammo",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 3,
+        "buyQty": 4284
+      },
+      "itemId": 2975,
+      "apiName": "Ball Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 2975,
+        "displayedName": "Ball Ammo",
+        "category": "Resource",
+        "supplyPrice": 3,
+        "supplyQty": 102,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 3,
+        "SellPrice": 1,
+        "Quantity": 581686,
+        "BuyContractQuantity": 102,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 581686,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Rig Repairs",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 266,
+        "buyQty": 1081
+      },
+      "itemId": 1122,
+      "apiName": "Rig Repairs",
+      "sortingGroup": "",
+      "navalGamingMarket": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 1122,
+        "displayedName": "Rig Repairs",
+        "category": "Material",
+        "supplyPrice": 266,
+        "supplyQty": 1734,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 266,
+        "SellPrice": 1,
+        "Quantity": 20000,
+        "BuyContractQuantity": 1734,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 20000,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Chain Ammo",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 15,
+        "buyQty": 11444
+      },
+      "itemId": 2976,
+      "apiName": "Chain Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 2976,
+        "displayedName": "Chain Ammo",
+        "category": "Resource",
+        "supplyPrice": 15,
+        "supplyQty": 11444,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 15,
+        "SellPrice": 1,
+        "Quantity": 24409,
+        "BuyContractQuantity": 11444,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 24409,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Hull Repairs",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 200,
+        "buyQty": 647
+      },
+      "itemId": 1124,
+      "apiName": "Hull Repairs",
+      "sortingGroup": "",
+      "navalGamingMarket": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 1124,
+        "displayedName": "Hull Repairs",
+        "category": "Material",
+        "supplyPrice": 199,
+        "supplyQty": 280,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 199,
+        "SellPrice": 1,
+        "Quantity": 24181,
+        "BuyContractQuantity": 280,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 24181,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": false,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "SEMANTIC_MISMATCH"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Medicine",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 60,
+        "buyQty": 196
+      },
+      "itemId": 365,
+      "apiName": "Medicine",
+      "sortingGroup": "Resource.Food",
+      "navalGamingMarket": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 365,
+        "displayedName": "Medicine",
+        "category": "Resource",
+        "supplyPrice": 60,
+        "supplyQty": 1946,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 60,
+        "SellPrice": 1,
+        "Quantity": 26000,
+        "BuyContractQuantity": 1946,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 26000,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Grape Ammo",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 57,
+        "buyQty": 19600
+      },
+      "itemId": 2977,
+      "apiName": "Grape Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 57,
+        "SellPrice": 1,
+        "Quantity": 20000,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 20000,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 150,
+      "port": "Aves",
+      "item": "Gunpowder",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 3,
+        "buyQty": 300000
+      },
+      "itemId": 2978,
+      "apiName": "Gunpowder",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 150,
+        "portName": "Aves, Central Antilles",
+        "itemId": 2978,
+        "displayedName": "Gunpowder",
+        "category": "Resource",
+        "supplyPrice": 3,
+        "supplyQty": 39864,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 3,
+        "SellPrice": 1,
+        "Quantity": 962695,
+        "BuyContractQuantity": 39864,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 962695,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Gunpowder",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 3,
+        "buyQty": 45732
+      },
+      "itemId": 2978,
+      "apiName": "Gunpowder",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 2978,
+        "displayedName": "Gunpowder",
+        "category": "Resource",
+        "supplyPrice": 3,
+        "supplyQty": 11330,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 3,
+        "SellPrice": 1,
+        "Quantity": 1163500,
+        "BuyContractQuantity": 11330,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 1163500,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Medicine",
+      "game": {
+        "sellPrice": 7,
+        "sellQty": 1436,
+        "buyPrice": 29,
+        "buyQty": 8537
+      },
+      "itemId": 365,
+      "apiName": "Medicine",
+      "sortingGroup": "Resource.Food",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 365,
+        "displayedName": "Medicine",
+        "category": "Resource",
+        "supplyPrice": 70,
+        "supplyQty": 342,
+        "demandPrice": 7,
+        "demandQty": 1436
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 70,
+        "SellPrice": 7,
+        "Quantity": 37659,
+        "BuyContractQuantity": 342,
+        "SellContractQuantity": 1436,
+        "IsContractsExist": true,
+        "derivedBuyQty": 37659,
+        "derivedSellQty": 1436
+      },
+      "matches": {
+        "buyPrice": false,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "SEMANTIC_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Hull Repairs",
+      "game": {
+        "sellPrice": 22,
+        "sellQty": 526,
+        "buyPrice": 120,
+        "buyQty": 3739
+      },
+      "itemId": 1124,
+      "apiName": "Hull Repairs",
+      "sortingGroup": "",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 1124,
+        "displayedName": "Hull Repairs",
+        "category": "Material",
+        "supplyPrice": 269,
+        "supplyQty": 50,
+        "demandPrice": 22,
+        "demandQty": 526
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 269,
+        "SellPrice": 22,
+        "Quantity": 22773,
+        "BuyContractQuantity": 50,
+        "SellContractQuantity": 526,
+        "IsContractsExist": true,
+        "derivedBuyQty": 22773,
+        "derivedSellQty": 526
+      },
+      "matches": {
+        "buyPrice": false,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "SEMANTIC_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Rig Repairs",
+      "game": {
+        "sellPrice": 22,
+        "sellQty": 471,
+        "buyPrice": 120,
+        "buyQty": 4175
+      },
+      "itemId": 1122,
+      "apiName": "Rig Repairs",
+      "sortingGroup": "",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 1122,
+        "displayedName": "Rig Repairs",
+        "category": "Material",
+        "supplyPrice": 248,
+        "supplyQty": 550,
+        "demandPrice": 22,
+        "demandQty": 471
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 248,
+        "SellPrice": 22,
+        "Quantity": 22733,
+        "BuyContractQuantity": 550,
+        "SellContractQuantity": 471,
+        "IsContractsExist": true,
+        "derivedBuyQty": 22733,
+        "derivedSellQty": 471
+      },
+      "matches": {
+        "buyPrice": false,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "SEMANTIC_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Chain Ammo",
+      "game": {
+        "sellPrice": 5,
+        "sellQty": 1871,
+        "buyPrice": 33,
+        "buyQty": 17355
+      },
+      "itemId": 2976,
+      "apiName": "Chain Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 2976,
+        "displayedName": "Chain Ammo",
+        "category": "Resource",
+        "supplyPrice": 43,
+        "supplyQty": 819,
+        "demandPrice": 5,
+        "demandQty": 1899
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 43,
+        "SellPrice": 5,
+        "Quantity": 102599,
+        "BuyContractQuantity": 819,
+        "SellContractQuantity": 1899,
+        "IsContractsExist": true,
+        "derivedBuyQty": 102599,
+        "derivedSellQty": 1899
+      },
+      "matches": {
+        "buyPrice": false,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": false
+      },
+      "status": "SEMANTIC_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Grape Ammo",
+      "game": {
+        "sellPrice": 5,
+        "sellQty": 1615,
+        "buyPrice": 49,
+        "buyQty": 2707
+      },
+      "itemId": 2977,
+      "apiName": "Grape Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 2977,
+        "displayedName": "Grape Ammo",
+        "category": "Resource",
+        "supplyPrice": 49,
+        "supplyQty": 4180,
+        "demandPrice": 5,
+        "demandQty": 1615
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 49,
+        "SellPrice": 5,
+        "Quantity": 45234,
+        "BuyContractQuantity": 4180,
+        "SellContractQuantity": 1615,
+        "IsContractsExist": true,
+        "derivedBuyQty": 45234,
+        "derivedSellQty": 1615
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Ball Ammo",
+      "game": {
+        "sellPrice": 2,
+        "sellQty": 15669,
+        "buyPrice": 5,
+        "buyQty": 9356
+      },
+      "itemId": 2975,
+      "apiName": "Ball Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 2975,
+        "displayedName": "Ball Ammo",
+        "category": "Resource",
+        "supplyPrice": 4,
+        "supplyQty": 18800,
+        "demandPrice": 2,
+        "demandQty": 15669
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 2,
+        "Quantity": 500000,
+        "BuyContractQuantity": 18800,
+        "SellContractQuantity": 15669,
+        "IsContractsExist": true,
+        "derivedBuyQty": 500000,
+        "derivedSellQty": 15669
+      },
+      "matches": {
+        "buyPrice": false,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "SEMANTIC_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Swedish Iron",
+      "game": {
+        "sellPrice": 124,
+        "sellQty": null,
+        "buyPrice": 249,
+        "buyQty": 12549
+      },
+      "itemId": 37,
+      "apiName": "Swedish Iron",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 37,
+        "displayedName": "Swedish Iron",
+        "price": 249,
+        "qty": 12549,
+        "weight": 17.5
+      },
+      "api": {
+        "BuyPrice": 249,
+        "SellPrice": 124,
+        "Quantity": 12549,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 12549,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Norwegian Fox Fur",
+      "game": {
+        "sellPrice": 259,
+        "sellQty": null,
+        "buyPrice": 518,
+        "buyQty": 4162
+      },
+      "itemId": 819,
+      "apiName": "Norwegian Fox Fur",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 819,
+        "displayedName": "Norwegian Fox Fur",
+        "price": 518,
+        "qty": 4232,
+        "weight": 35
+      },
+      "api": {
+        "BuyPrice": 518,
+        "SellPrice": 259,
+        "Quantity": 4232,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 4232,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Swedish flax",
+      "game": {
+        "sellPrice": 8,
+        "sellQty": null,
+        "buyPrice": 16,
+        "buyQty": 54943
+      },
+      "itemId": 836,
+      "apiName": "Swedish flax",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 836,
+        "displayedName": "Swedish flax",
+        "price": 16,
+        "qty": 54943,
+        "weight": 1.17
+      },
+      "api": {
+        "BuyPrice": 16,
+        "SellPrice": 8,
+        "Quantity": 54943,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 54943,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Akvavit",
+      "game": {
+        "sellPrice": 124,
+        "sellQty": null,
+        "buyPrice": 249,
+        "buyQty": 12729
+      },
+      "itemId": 1876,
+      "apiName": "Akvavit",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 1876,
+        "displayedName": "Akvavit",
+        "price": 249,
+        "qty": 12729,
+        "weight": 17.5
+      },
+      "api": {
+        "BuyPrice": 249,
+        "SellPrice": 124,
+        "Quantity": 12729,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 12729,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Russian Vodka",
+      "game": {
+        "sellPrice": 124,
+        "sellQty": null,
+        "buyPrice": 249,
+        "buyQty": 12549
+      },
+      "itemId": 835,
+      "apiName": "Russian Vodka",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 835,
+        "displayedName": "Russian Vodka",
+        "price": 249,
+        "qty": 12549,
+        "weight": 17.5
+      },
+      "api": {
+        "BuyPrice": 249,
+        "SellPrice": 124,
+        "Quantity": 12549,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 12549,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Danish Beer",
+      "game": {
+        "sellPrice": 259,
+        "sellQty": null,
+        "buyPrice": 518,
+        "buyQty": 4232
+      },
+      "itemId": 33,
+      "apiName": "Danish Beer",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 33,
+        "displayedName": "Danish Beer",
+        "price": 518,
+        "qty": 4232,
+        "weight": 35
+      },
+      "api": {
+        "BuyPrice": 518,
+        "SellPrice": 259,
+        "Quantity": 4232,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 4232,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Danish Pickled Herring",
+      "game": {
+        "sellPrice": 259,
+        "sellQty": null,
+        "buyPrice": 518,
+        "buyQty": 4232
+      },
+      "itemId": 814,
+      "apiName": "Danish Pickled Herring",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 814,
+        "displayedName": "Danish Pickled Herring",
+        "price": 518,
+        "qty": 4232,
+        "weight": 35
+      },
+      "api": {
+        "BuyPrice": 518,
+        "SellPrice": 259,
+        "Quantity": 4232,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 4232,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Iron Ore",
+      "game": {
+        "sellPrice": 6,
+        "sellQty": 4986,
+        "buyPrice": 15,
+        "buyQty": 10000
+      },
+      "itemId": 29,
+      "apiName": "Iron Ore",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 29,
+        "displayedName": "Iron Ore",
+        "category": "Resource",
+        "supplyPrice": 16,
+        "supplyQty": 8107,
+        "demandPrice": 6,
+        "demandQty": 5000
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 16,
+        "SellPrice": 6,
+        "Quantity": -1,
+        "BuyContractQuantity": 8107,
+        "SellContractQuantity": 5000,
+        "IsContractsExist": true,
+        "derivedBuyQty": 8107,
+        "derivedSellQty": 5000
+      },
+      "matches": {
+        "buyPrice": false,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": false
+      },
+      "status": "SEMANTIC_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Lignum Vitae Log",
+      "game": {
+        "sellPrice": 6,
+        "sellQty": 1158,
+        "buyPrice": 49,
+        "buyQty": 5517
+      },
+      "itemId": 30,
+      "apiName": "Lignum Vitae Log",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 30,
+        "displayedName": "Lignum Vitae Log",
+        "category": "Resource",
+        "supplyPrice": 49,
+        "supplyQty": 6481,
+        "demandPrice": 6,
+        "demandQty": 1442
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 49,
+        "SellPrice": 6,
+        "Quantity": -1,
+        "BuyContractQuantity": 6481,
+        "SellContractQuantity": 1442,
+        "IsContractsExist": true,
+        "derivedBuyQty": 6481,
+        "derivedSellQty": 1442
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": false
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Oak Log",
+      "game": {
+        "sellPrice": 3,
+        "sellQty": 5395,
+        "buyPrice": 10,
+        "buyQty": 5723
+      },
+      "itemId": 39,
+      "apiName": "Oak Log",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 39,
+        "displayedName": "Oak Log",
+        "category": "Resource",
+        "supplyPrice": 10,
+        "supplyQty": 9628,
+        "demandPrice": 3,
+        "demandQty": 5858
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 10,
+        "SellPrice": 3,
+        "Quantity": -1,
+        "BuyContractQuantity": 9628,
+        "SellContractQuantity": 5858,
+        "IsContractsExist": true,
+        "derivedBuyQty": 9628,
+        "derivedSellQty": 5858
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": false
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Live Oak Log",
+      "game": {
+        "sellPrice": 186,
+        "sellQty": 2000,
+        "buyPrice": 15,
+        "buyQty": null
+      },
+      "itemId": 300,
+      "apiName": "Live Oak Log",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 300,
+        "displayedName": "Live Oak Log",
+        "category": "Resource",
+        "supplyPrice": null,
+        "supplyQty": null,
+        "demandPrice": 186,
+        "demandQty": 2000
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 15,
+        "SellPrice": 186,
+        "Quantity": -1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": 2000,
+        "IsContractsExist": true,
+        "derivedBuyQty": null,
+        "derivedSellQty": 2000
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Pompano",
+      "game": {
+        "sellPrice": 2,
+        "sellQty": 1465,
+        "buyPrice": 100,
+        "buyQty": 1700
+      },
+      "itemId": 405,
+      "apiName": "Pompano",
+      "sortingGroup": "Resource.Fish",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 405,
+        "displayedName": "Pompano",
+        "category": "ConvertibleItem",
+        "supplyPrice": 100,
+        "supplyQty": 1700,
+        "demandPrice": 2,
+        "demandQty": 1465
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 100,
+        "SellPrice": 2,
+        "Quantity": -1,
+        "BuyContractQuantity": 1700,
+        "SellContractQuantity": 1465,
+        "IsContractsExist": true,
+        "derivedBuyQty": 1700,
+        "derivedSellQty": 1465
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Tuna",
+      "game": {
+        "sellPrice": 665,
+        "sellQty": 123,
+        "buyPrice": 1,
+        "buyQty": null
+      },
+      "itemId": 408,
+      "apiName": "Tuna",
+      "sortingGroup": "Resource.Fish",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 408,
+        "displayedName": "Tuna",
+        "category": "ConvertibleItem",
+        "supplyPrice": null,
+        "supplyQty": null,
+        "demandPrice": 665,
+        "demandQty": 123
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 1,
+        "SellPrice": 665,
+        "Quantity": -1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": 123,
+        "IsContractsExist": true,
+        "derivedBuyQty": null,
+        "derivedSellQty": 123
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 23,
+      "port": "Pitt's Town",
+      "item": "Dorado",
+      "game": {
+        "sellPrice": 385,
+        "sellQty": 121,
+        "buyPrice": 3000,
+        "buyQty": 100
+      },
+      "itemId": 563,
+      "apiName": "Dorado",
+      "sortingGroup": "Resource.Fish",
+      "navalGamingMarket": {
+        "portId": 23,
+        "portName": "Pitt's Town, Bahamas",
+        "itemId": 563,
+        "displayedName": "Dorado",
+        "category": "ConvertibleItem",
+        "supplyPrice": 3000,
+        "supplyQty": 100,
+        "demandPrice": 385,
+        "demandQty": 121
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 3000,
+        "SellPrice": 385,
+        "Quantity": -1,
+        "BuyContractQuantity": 100,
+        "SellContractQuantity": 121,
+        "IsContractsExist": true,
+        "derivedBuyQty": 100,
+        "derivedSellQty": 121
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Rig Repairs",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 80,
+        "buyQty": 3860
+      },
+      "itemId": 1122,
+      "apiName": "Rig Repairs",
+      "sortingGroup": "",
+      "navalGamingMarket": {
+        "portId": 112,
+        "portName": "La Mona, Puerto Rico",
+        "itemId": 1122,
+        "displayedName": "Rig Repairs",
+        "category": "Material",
+        "supplyPrice": 80,
+        "supplyQty": 3860,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 80,
+        "SellPrice": 1,
+        "Quantity": 20338,
+        "BuyContractQuantity": 3860,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 20338,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Chain Ammo",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 12,
+        "buyQty": 15370
+      },
+      "itemId": 2976,
+      "apiName": "Chain Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 112,
+        "portName": "La Mona, Puerto Rico",
+        "itemId": 2976,
+        "displayedName": "Chain Ammo",
+        "category": "Resource",
+        "supplyPrice": 12,
+        "supplyQty": 15370,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 12,
+        "SellPrice": 1,
+        "Quantity": 20000,
+        "BuyContractQuantity": 15370,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 20000,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Ball Ammo",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 15000
+      },
+      "itemId": 2975,
+      "apiName": "Ball Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 112,
+        "portName": "La Mona, Puerto Rico",
+        "itemId": 2975,
+        "displayedName": "Ball Ammo",
+        "category": "Resource",
+        "supplyPrice": 4,
+        "supplyQty": 15000,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 503566,
+        "BuyContractQuantity": 15000,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 503566,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Hull Repairs",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 100,
+        "buyQty": 4068
+      },
+      "itemId": 1124,
+      "apiName": "Hull Repairs",
+      "sortingGroup": "",
+      "navalGamingMarket": {
+        "portId": 112,
+        "portName": "La Mona, Puerto Rico",
+        "itemId": 1124,
+        "displayedName": "Hull Repairs",
+        "category": "Material",
+        "supplyPrice": 100,
+        "supplyQty": 4068,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 100,
+        "SellPrice": 1,
+        "Quantity": 20371,
+        "BuyContractQuantity": 4068,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 20371,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Gunpowder",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 3,
+        "buyQty": 45000
+      },
+      "itemId": 2978,
+      "apiName": "Gunpowder",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 112,
+        "portName": "La Mona, Puerto Rico",
+        "itemId": 2978,
+        "displayedName": "Gunpowder",
+        "category": "Resource",
+        "supplyPrice": 3,
+        "supplyQty": 45000,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 3,
+        "SellPrice": 1,
+        "Quantity": 966363,
+        "BuyContractQuantity": 45000,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 966363,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Medicine",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 20,
+        "buyQty": 3705
+      },
+      "itemId": 365,
+      "apiName": "Medicine",
+      "sortingGroup": "Resource.Food",
+      "navalGamingMarket": {
+        "portId": 112,
+        "portName": "La Mona, Puerto Rico",
+        "itemId": 365,
+        "displayedName": "Medicine",
+        "category": "Resource",
+        "supplyPrice": 20,
+        "supplyQty": 3705,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 20,
+        "SellPrice": 1,
+        "Quantity": 25000,
+        "BuyContractQuantity": 3705,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 25000,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Grape Ammo",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 12,
+        "buyQty": 18326
+      },
+      "itemId": 2977,
+      "apiName": "Grape Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": {
+        "portId": 112,
+        "portName": "La Mona, Puerto Rico",
+        "itemId": 2977,
+        "displayedName": "Grape Ammo",
+        "category": "Resource",
+        "supplyPrice": 12,
+        "supplyQty": 18326,
+        "demandPrice": null,
+        "demandQty": null
+      },
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 12,
+        "SellPrice": 1,
+        "Quantity": 20040,
+        "BuyContractQuantity": 18326,
+        "SellContractQuantity": -1,
+        "IsContractsExist": true,
+        "derivedBuyQty": 20040,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Molasses",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 2400060
+      },
+      "itemId": 1890,
+      "apiName": "Molasses",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 2400060,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 2400060,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Teak Log",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 10,
+        "buyQty": 1808097
+      },
+      "itemId": 44,
+      "apiName": "Teak Log",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 10,
+        "SellPrice": 1,
+        "Quantity": 1808097,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 1808097,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Stone Block",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 3,
+        "buyQty": 1200000
+      },
+      "itemId": 43,
+      "apiName": "Stone Block",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 3,
+        "SellPrice": 1,
+        "Quantity": 1200000,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 1200000,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Fine Leather",
+      "game": {
+        "sellPrice": 259,
+        "sellQty": null,
+        "buyPrice": 518,
+        "buyQty": 4527
+      },
+      "itemId": 858,
+      "apiName": "Fine Leather",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": {
+        "portId": 112,
+        "portName": "La Mona, Puerto Rico",
+        "itemId": 858,
+        "displayedName": "Fine Leather",
+        "price": 518,
+        "qty": 4527,
+        "weight": 35
+      },
+      "api": {
+        "BuyPrice": 518,
+        "SellPrice": 259,
+        "Quantity": 4527,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 4527,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Fishing Hooks",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 829
+      },
+      "itemId": 3221,
+      "apiName": "Fishing Hooks",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 829,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 829,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Fishing Nets",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 802
+      },
+      "itemId": 3222,
+      "apiName": "Fishing Nets",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 802,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 802,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Saltpeter",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 6,
+        "buyQty": 1200000
+      },
+      "itemId": 864,
+      "apiName": "Saltpeter",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 6,
+        "SellPrice": 1,
+        "Quantity": 1200000,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 1200000,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "White Oak Log",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 10,
+        "buyQty": 6
+      },
+      "itemId": 1359,
+      "apiName": "White Oak Log",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 10,
+        "SellPrice": 1,
+        "Quantity": 6,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 6,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Medicinal bark",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 10,
+        "buyQty": 12
+      },
+      "itemId": 1844,
+      "apiName": "Medicinal bark",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 10,
+        "SellPrice": 1,
+        "Quantity": 12,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 12,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Lignum Vitae Log",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 6,
+        "buyQty": 6
+      },
+      "itemId": 30,
+      "apiName": "Lignum Vitae Log",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 6,
+        "SellPrice": 1,
+        "Quantity": 6,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 6,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Fish Meat",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 146
+      },
+      "itemId": 620,
+      "apiName": "Fish Meat",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 146,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 146,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Oak Log",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 3
+      },
+      "itemId": 39,
+      "apiName": "Oak Log",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 3,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 3,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Fir Log",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 1
+      },
+      "itemId": 26,
+      "apiName": "Fir Log",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 1,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 112,
+      "port": "La Mona",
+      "item": "Topaz",
+      "game": {
+        "sellPrice": 1000,
+        "sellQty": null,
+        "buyPrice": 1055,
+        "buyQty": 3
+      },
+      "itemId": 1874,
+      "apiName": "Topaz",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Teak Log",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 10,
+        "buyQty": 1645641
+      },
+      "itemId": 44,
+      "apiName": "Teak Log",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 10,
+        "SellPrice": 1,
+        "Quantity": 1645891,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 1645891,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Iron Ore",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 7,
+        "buyQty": 3600000
+      },
+      "itemId": 29,
+      "apiName": "Iron Ore",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 7,
+        "SellPrice": 1,
+        "Quantity": 3593856,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 3593856,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Fishing Nets",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 422
+      },
+      "itemId": 3222,
+      "apiName": "Fishing Nets",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 421,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 421,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": false,
+        "sellQty": true
+      },
+      "status": "FRESHNESS_MISMATCH"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Fishing Hooks",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 526
+      },
+      "itemId": 3221,
+      "apiName": "Fishing Hooks",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 526,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 526,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Black Ironwood",
+      "game": {
+        "sellPrice": 863,
+        "sellQty": null,
+        "buyPrice": 1727,
+        "buyQty": 1530
+      },
+      "itemId": 851,
+      "apiName": "Black Ironwood",
+      "sortingGroup": "Resource.Trading",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": {
+        "portId": 140,
+        "portName": "Saint John's, Upper Antilles",
+        "itemId": 851,
+        "displayedName": "Black Ironwood",
+        "price": 1727,
+        "qty": 1530,
+        "weight": 116.67
+      },
+      "api": {
+        "BuyPrice": 1727,
+        "SellPrice": 863,
+        "Quantity": 1530,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 1530,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Salt",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 213
+      },
+      "itemId": 621,
+      "apiName": "Salt",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 213,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 213,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Oak Log",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 4,
+        "buyQty": 1
+      },
+      "itemId": 39,
+      "apiName": "Oak Log",
+      "sortingGroup": "Resource.Resources",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 4,
+        "SellPrice": 1,
+        "Quantity": 1,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 1,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Grape Ammo",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": 57,
+        "buyQty": 17
+      },
+      "itemId": 2977,
+      "apiName": "Grape Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "api": {
+        "BuyPrice": 57,
+        "SellPrice": 1,
+        "Quantity": 17,
+        "BuyContractQuantity": -1,
+        "SellContractQuantity": -1,
+        "IsContractsExist": false,
+        "derivedBuyQty": 17,
+        "derivedSellQty": null
+      },
+      "matches": {
+        "buyPrice": true,
+        "sellPrice": true,
+        "buyQty": true,
+        "sellQty": true
+      },
+      "status": "PASS"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Ball Ammo",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": null,
+        "buyQty": null
+      },
+      "itemId": 2975,
+      "apiName": "Ball Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Hull Repairs",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": null,
+        "buyQty": null
+      },
+      "itemId": 1124,
+      "apiName": "Hull Repairs",
+      "sortingGroup": "",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Rig Repairs",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": null,
+        "buyQty": null
+      },
+      "itemId": 1122,
+      "apiName": "Rig Repairs",
+      "sortingGroup": "",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Gunpowder",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": null,
+        "buyQty": null
+      },
+      "itemId": 2978,
+      "apiName": "Gunpowder",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Medicine",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": null,
+        "buyQty": null
+      },
+      "itemId": 365,
+      "apiName": "Medicine",
+      "sortingGroup": "Resource.Food",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    },
+    {
+      "portId": 140,
+      "port": "Saint John's",
+      "item": "Chain Ammo",
+      "game": {
+        "sellPrice": 1,
+        "sellQty": null,
+        "buyPrice": null,
+        "buyQty": null
+      },
+      "itemId": 2976,
+      "apiName": "Chain Ammo",
+      "sortingGroup": "Resource.Ammo",
+      "navalGamingMarket": null,
+      "navalGamingTradeGood": null,
+      "status": "API_ABSENT"
+    }
+  ]
+}
