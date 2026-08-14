@@ -1,0 +1,42 @@
+name: Probe public Naval Action data feed
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/probe_public_api.py"
+      - ".github/workflows/probe-public-api.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probe public shard objects
+        run: python scripts/probe_public_api.py
+
+      - name: Commit research result
+        if: always()
+        run: |
+          if [ ! -f research/public_api_probe.json ]; then
+            echo "No probe file generated"
+            exit 0
+          fi
+          git config user.name "naval-action-market-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add research/public_api_probe.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "research: record public API probe"
+          git push
