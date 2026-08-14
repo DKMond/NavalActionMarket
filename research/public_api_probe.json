@@ -1,0 +1,2957 @@
+{
+  "generatedAt": "2026-08-14T11:07:16.327873+00:00",
+  "base": "https://storage.googleapis.com/nacleanopenworldprodshards",
+  "results": [
+    {
+      "file": "Ports",
+      "shard": "cleanopenworldprodeu1",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu1.json",
+      "status": 200,
+      "bytes": 670267,
+      "contentType": "text/plain",
+      "lastModified": "Mon, 13 Jul 2026 10:38:28 GMT",
+      "etag": "\"0c57bd072e4c7af67794093bc77bf8a4\"",
+      "generation": "1783939107951064",
+      "sha256": "6a8c3a784213ef36efad5afb103fcf304e0e4654bf753089173f05995bbc90de",
+      "parseOk": true,
+      "wrapper": "var Ports",
+      "topLevel": {
+        "type": "list",
+        "length": 207
+      },
+      "analysis": {
+        "portCount": 207,
+        "knownPorts": [
+          {
+            "name": "Nassau",
+            "id": "14",
+            "nation": 5,
+            "x": null,
+            "y": null
+          },
+          {
+            "name": "Pitt's Town",
+            "id": "23",
+            "nation": 0,
+            "x": null,
+            "y": null
+          },
+          {
+            "name": "Saint George's Town",
+            "id": "355",
+            "nation": 2,
+            "x": null,
+            "y": null
+          },
+          {
+            "name": "Guacata",
+            "id": "374",
+            "nation": 2,
+            "x": null,
+            "y": null
+          }
+        ]
+      }
+    },
+    {
+      "file": "Shops",
+      "shard": "cleanopenworldprodeu1",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu1.json",
+      "status": 200,
+      "bytes": 1209907,
+      "contentType": "text/plain",
+      "lastModified": "Mon, 13 Jul 2026 10:38:27 GMT",
+      "etag": "\"e7e5afef795d6ed604e187563d9a7ec9\"",
+      "generation": "1783939107468303",
+      "sha256": "d0d415f443407e75d7bb51586fd6cdc125cd482f0ce8d64da5346c3352c6f2c8",
+      "parseOk": true,
+      "wrapper": "var Shops",
+      "topLevel": {
+        "type": "list",
+        "length": 207
+      },
+      "analysis": {
+        "dictCount": 8612,
+        "commonKeys": [
+          [
+            "TemplateId",
+            6021
+          ],
+          [
+            "IsInfinite",
+            6021
+          ],
+          [
+            "Quantity",
+            6021
+          ],
+          [
+            "SellPrice",
+            6021
+          ],
+          [
+            "BuyPrice",
+            6021
+          ],
+          [
+            "QuantityBought",
+            6021
+          ],
+          [
+            "BuyContractQuantity",
+            6021
+          ],
+          [
+            "SellContractQuantity",
+            6021
+          ],
+          [
+            "IsContractsExist",
+            6021
+          ],
+          [
+            "Key",
+            1707
+          ],
+          [
+            "Value",
+            1707
+          ],
+          [
+            "Template",
+            677
+          ],
+          [
+            "Amount",
+            677
+          ],
+          [
+            "Chance",
+            677
+          ],
+          [
+            "IsTrading",
+            677
+          ],
+          [
+            "Source",
+            677
+          ],
+          [
+            "Id",
+            207
+          ],
+          [
+            "Created",
+            207
+          ],
+          [
+            "Modified",
+            207
+          ],
+          [
+            "RegularItems",
+            207
+          ],
+          [
+            "ResourcesProduced",
+            207
+          ],
+          [
+            "ResourcesAdded",
+            207
+          ],
+          [
+            "ResourcesConsumed",
+            207
+          ]
+        ],
+        "examples": [
+          {
+            "Id": "3",
+            "Created": "/Date(-62135596800000)/",
+            "Modified": "/Date(-62135596800000)/",
+            "RegularItems": [
+              {
+                "TemplateId": 1583,
+                "IsInfinite": false,
+                "Quantity": 10000,
+                "SellPrice": 21,
+                "BuyPrice": 85,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 72,
+                "IsInfinite": false,
+                "Quantity": 10164,
+                "SellPrice": 30,
+                "BuyPrice": 121,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 70,
+                "IsInfinite": false,
+                "Quantity": 10077,
+                "SellPrice": 25,
+                "BuyPrice": 100,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 50,
+                "IsInfinite": false,
+                "Quantity": 10029,
+                "SellPrice": 31,
+                "BuyPrice": 125,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 989,
+                "IsInfinite": false,
+                "Quantity": 46367,
+                "SellPrice": 32,
+                "BuyPrice": 45,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 73,
+                "IsInfinite": false,
+                "Quantity": 98,
+                "SellPrice": 35,
+                "BuyPrice": 142,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 43,
+                "IsInfinite": false,
+                "Quantity": 1200000,
+                "SellPrice": 1,
+                "BuyPrice": 3,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 65,
+                "IsInfinite": false,
+                "Quantity": 10,
+                "SellPrice": 40,
+                "BuyPrice": 163,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 3221,
+                "IsInfinite": false,
+                "Quantity": 19,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 621,
+                "IsInfinite": false,
+                "Quantity": 14,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 3222,
+                "IsInfinite": false,
+                "Quantity": 3,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 67,
+                "IsInfinite": false,
+                "Quantity": 10,
+                "SellPrice": 51,
+                "BuyPrice": 204,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 866,
+                "IsInfinite": false,
+                "Quantity": 96,
+                "SellPrice": 1,
+                "BuyPrice": 5,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 26,
+                "IsInfinite": false,
+                "Quantity": 1,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 39,
+                "IsInfinite": false,
+                "Quantity": 2,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              }
+            ],
+            "ResourcesProduced": [],
+            "ResourcesAdded": [
+              {
+                "Template": 43,
+                "Amount": 623,
+                "Chance": 1,
+                "IsTrading": true,
+                "Source": "CustomPortShopFiller"
+              }
+            ],
+            "ResourcesConsumed": []
+          },
+          {
+            "TemplateId": 1583,
+            "IsInfinite": false,
+            "Quantity": 10000,
+            "SellPrice": 21,
+            "BuyPrice": 85,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 72,
+            "IsInfinite": false,
+            "Quantity": 10164,
+            "SellPrice": 30,
+            "BuyPrice": 121,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 70,
+            "IsInfinite": false,
+            "Quantity": 10077,
+            "SellPrice": 25,
+            "BuyPrice": 100,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 50,
+            "IsInfinite": false,
+            "Quantity": 10029,
+            "SellPrice": 31,
+            "BuyPrice": 125,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 989,
+            "IsInfinite": false,
+            "Quantity": 46367,
+            "SellPrice": 32,
+            "BuyPrice": 45,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 73,
+            "IsInfinite": false,
+            "Quantity": 98,
+            "SellPrice": 35,
+            "BuyPrice": 142,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 43,
+            "IsInfinite": false,
+            "Quantity": 1200000,
+            "SellPrice": 1,
+            "BuyPrice": 3,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "ItemTemplates",
+      "shard": "cleanopenworldprodeu1",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/ItemTemplates_cleanopenworldprodeu1.json",
+      "status": 200,
+      "bytes": 3814783,
+      "contentType": "text/plain",
+      "lastModified": "Mon, 13 Jul 2026 10:38:27 GMT",
+      "etag": "\"93276249b19f8e262b36e4c6dcccccab\"",
+      "generation": "1783939107098673",
+      "sha256": "86f8f52ae0d39df7aa0bf9b7d38198959714d2d688532b74e2f073bec6f2293d",
+      "parseOk": true,
+      "wrapper": "var ItemTemplates",
+      "topLevel": {
+        "type": "list",
+        "length": 1723
+      },
+      "analysis": {
+        "dictCount": 50282,
+        "commonKeys": [
+          [
+            "Min",
+            22684
+          ],
+          [
+            "Max",
+            22684
+          ],
+          [
+            "SellPrice",
+            8615
+          ],
+          [
+            "BuyPrice",
+            8615
+          ],
+          [
+            "Template",
+            7526
+          ],
+          [
+            "Chance",
+            7469
+          ],
+          [
+            "Group",
+            5638
+          ],
+          [
+            "Stack",
+            5638
+          ],
+          [
+            "StackIsPercOfAmount",
+            5638
+          ],
+          [
+            "Unique",
+            5638
+          ],
+          [
+            "x",
+            3674
+          ],
+          [
+            "y",
+            3674
+          ],
+          [
+            "Valid",
+            3446
+          ],
+          [
+            "Amount",
+            1832
+          ],
+          [
+            "BreakUpDropChance",
+            1831
+          ],
+          [
+            "__type",
+            1723
+          ],
+          [
+            "Name",
+            1723
+          ],
+          [
+            "Id",
+            1723
+          ],
+          [
+            "NotUsed",
+            1723
+          ],
+          [
+            "Hided",
+            1723
+          ],
+          [
+            "ApiExport",
+            1723
+          ],
+          [
+            "NotTradeable",
+            1723
+          ],
+          [
+            "PreventTeleport",
+            1723
+          ],
+          [
+            "DropChanceReductionPerItem",
+            1723
+          ],
+          [
+            "MaxStack",
+            1723
+          ],
+          [
+            "ItemWeight",
+            1723
+          ],
+          [
+            "BasePrice",
+            1723
+          ],
+          [
+            "MinContractAmount",
+            1723
+          ],
+          [
+            "MaxContractAmount",
+            1723
+          ],
+          [
+            "PriceReductionAmount",
+            1723
+          ]
+        ],
+        "examples": [
+          {
+            "__type": "MegaChaka.Services.Items.ModuleTemplate, MegaChaka",
+            "Modifiers": [
+              {
+                "Slot": "NONE",
+                "MappingIds": [
+                  "PERK_MORTAR_RELOAD_TIME_MODIFIER"
+                ],
+                "Absolute": -0.25,
+                "Percentage": 0
+              },
+              {
+                "Slot": "NONE",
+                "MappingIds": [
+                  "PERK_MORTAR_DISPERSION_MODIFIER"
+                ],
+                "Absolute": -0.25,
+                "Percentage": 0
+              }
+            ],
+            "scoreValue": 0,
+            "UsageType": "All",
+            "MaxItems": 1,
+            "Name": "Mortar Officer",
+            "Id": 628,
+            "NotUsed": false,
+            "Hided": true,
+            "ApiExport": true,
+            "NotTradeable": true,
+            "PreventTeleport": true
+          },
+          {
+            "Valid": false,
+            "Produced": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Consumed": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Regular": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "FullStackAmount": 0,
+            "FullStack": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "RandomPct": 0,
+            "RangePct": 0
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "__type": "MegaChaka.Services.Items.CannonTemplate, MegaChaka",
+            "ShipModifiers": [],
+            "MaxItems": 1,
+            "Name": "32pd Medium Gun",
+            "Id": 68,
+            "NotUsed": false,
+            "Hided": false,
+            "ApiExport": true,
+            "NotTradeable": false,
+            "PreventTeleport": false,
+            "DropChanceReductionPerItem": 0,
+            "MaxStack": 2000
+          },
+          {
+            "Valid": false,
+            "Produced": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Consumed": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Regular": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "FullStackAmount": 100,
+            "FullStack": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "RandomPct": 0,
+            "RangePct": 0
+          }
+        ]
+      }
+    },
+    {
+      "file": "Nations",
+      "shard": "cleanopenworldprodeu1",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Nations_cleanopenworldprodeu1.json",
+      "status": 200,
+      "bytes": 1223,
+      "contentType": "text/plain",
+      "lastModified": "Mon, 13 Jul 2026 10:38:28 GMT",
+      "etag": "\"1889c9a346bb13ba7b9fd7ee657e3be0\"",
+      "generation": "1783939108231338",
+      "sha256": "c56f99d2585bc0d56b37e3e92859631edb9b6ed67c82ca8f5d240742076dc006",
+      "parseOk": true,
+      "wrapper": "var Nations",
+      "topLevel": {
+        "type": "dict",
+        "keys": [
+          "Nations",
+          "RelationshipTable",
+          "PiratesNation",
+          "NeutralNation",
+          "FreeTownNation"
+        ],
+        "keyCount": 5,
+        "listSizes": {
+          "Nations": 6,
+          "RelationshipTable": 36
+        }
+      },
+      "analysis": {
+        "dictCount": 7,
+        "commonKeys": [
+          [
+            "Name",
+            6
+          ],
+          [
+            "CanBeUsedAsBotFiller",
+            6
+          ],
+          [
+            "CanBeUsedByPlayers",
+            6
+          ],
+          [
+            "CanBeVotedFor",
+            6
+          ],
+          [
+            "NationPortIsFreeForAll",
+            6
+          ],
+          [
+            "MaxBots",
+            6
+          ],
+          [
+            "Id",
+            6
+          ],
+          [
+            "NationStartingPortId",
+            6
+          ],
+          [
+            "Nations",
+            1
+          ],
+          [
+            "RelationshipTable",
+            1
+          ],
+          [
+            "PiratesNation",
+            1
+          ],
+          [
+            "NeutralNation",
+            1
+          ],
+          [
+            "FreeTownNation",
+            1
+          ]
+        ],
+        "examples": [
+          {
+            "Name": "Neutral",
+            "CanBeUsedAsBotFiller": false,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": 0,
+            "Id": 0,
+            "NationStartingPortId": -1
+          },
+          {
+            "Name": "Pirates",
+            "CanBeUsedAsBotFiller": false,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 1,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "España",
+            "CanBeUsedAsBotFiller": true,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 2,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "France",
+            "CanBeUsedAsBotFiller": true,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 3,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "Great Britain",
+            "CanBeUsedAsBotFiller": true,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 4,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "Verenigde Provinciën",
+            "CanBeUsedAsBotFiller": false,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": 0,
+            "Id": 5,
+            "NationStartingPortId": -1
+          }
+        ]
+      }
+    },
+    {
+      "file": "Ports",
+      "shard": "cleanopenworldprodeu2",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu2.json",
+      "status": 200,
+      "bytes": 672016,
+      "contentType": "text/plain",
+      "lastModified": "Fri, 14 Aug 2026 10:08:24 GMT",
+      "etag": "\"4c8e4c2f1bfff472bbbf0b246b08a0ef\"",
+      "generation": "1786702104627264",
+      "sha256": "5aef1c05f95d871d9e5bddae728e170bf6acd6583fbd62455ed99198981b4141",
+      "parseOk": true,
+      "wrapper": "var Ports",
+      "topLevel": {
+        "type": "list",
+        "length": 207
+      },
+      "analysis": {
+        "portCount": 207,
+        "knownPorts": [
+          {
+            "name": "Nassau",
+            "id": "14",
+            "nation": 5,
+            "x": null,
+            "y": null
+          },
+          {
+            "name": "Pitt's Town",
+            "id": "23",
+            "nation": 0,
+            "x": null,
+            "y": null
+          },
+          {
+            "name": "Saint George's Town",
+            "id": "355",
+            "nation": 3,
+            "x": null,
+            "y": null
+          },
+          {
+            "name": "Guacata",
+            "id": "374",
+            "nation": 2,
+            "x": null,
+            "y": null
+          }
+        ]
+      }
+    },
+    {
+      "file": "Shops",
+      "shard": "cleanopenworldprodeu2",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu2.json",
+      "status": 200,
+      "bytes": 966246,
+      "contentType": "text/plain",
+      "lastModified": "Fri, 14 Aug 2026 10:08:24 GMT",
+      "etag": "\"d23a0450f8e377840e8aab956a3a9bce\"",
+      "generation": "1786702104296761",
+      "sha256": "30f703e390c666408b03fdf2dd4ef9421ec7d941037282d51373a77ba37bf9d0",
+      "parseOk": true,
+      "wrapper": "var Shops",
+      "topLevel": {
+        "type": "list",
+        "length": 207
+      },
+      "analysis": {
+        "dictCount": 7273,
+        "commonKeys": [
+          [
+            "TemplateId",
+            4642
+          ],
+          [
+            "IsInfinite",
+            4642
+          ],
+          [
+            "Quantity",
+            4642
+          ],
+          [
+            "SellPrice",
+            4642
+          ],
+          [
+            "BuyPrice",
+            4642
+          ],
+          [
+            "QuantityBought",
+            4642
+          ],
+          [
+            "BuyContractQuantity",
+            4642
+          ],
+          [
+            "SellContractQuantity",
+            4642
+          ],
+          [
+            "IsContractsExist",
+            4642
+          ],
+          [
+            "Key",
+            1747
+          ],
+          [
+            "Value",
+            1747
+          ],
+          [
+            "Template",
+            677
+          ],
+          [
+            "Amount",
+            677
+          ],
+          [
+            "Chance",
+            677
+          ],
+          [
+            "IsTrading",
+            677
+          ],
+          [
+            "Source",
+            677
+          ],
+          [
+            "Id",
+            207
+          ],
+          [
+            "Created",
+            207
+          ],
+          [
+            "Modified",
+            207
+          ],
+          [
+            "RegularItems",
+            207
+          ],
+          [
+            "ResourcesProduced",
+            207
+          ],
+          [
+            "ResourcesAdded",
+            207
+          ],
+          [
+            "ResourcesConsumed",
+            207
+          ]
+        ],
+        "examples": [
+          {
+            "Id": "3",
+            "Created": "/Date(-62135596800000)/",
+            "Modified": "/Date(-62135596800000)/",
+            "RegularItems": [
+              {
+                "TemplateId": 72,
+                "IsInfinite": false,
+                "Quantity": 10032,
+                "SellPrice": 30,
+                "BuyPrice": 121,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 50,
+                "IsInfinite": false,
+                "Quantity": 10000,
+                "SellPrice": 31,
+                "BuyPrice": 125,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 1583,
+                "IsInfinite": false,
+                "Quantity": 10000,
+                "SellPrice": 21,
+                "BuyPrice": 85,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 70,
+                "IsInfinite": false,
+                "Quantity": 10008,
+                "SellPrice": 25,
+                "BuyPrice": 100,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 989,
+                "IsInfinite": false,
+                "Quantity": 5174,
+                "SellPrice": 32,
+                "BuyPrice": 49,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 43,
+                "IsInfinite": false,
+                "Quantity": 1200000,
+                "SellPrice": 1,
+                "BuyPrice": 2,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 3222,
+                "IsInfinite": false,
+                "Quantity": 26,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 3221,
+                "IsInfinite": false,
+                "Quantity": 18,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 620,
+                "IsInfinite": false,
+                "Quantity": 537,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 1844,
+                "IsInfinite": false,
+                "Quantity": 16,
+                "SellPrice": 1,
+                "BuyPrice": 10,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 5,
+                "IsInfinite": false,
+                "Quantity": 891,
+                "SellPrice": 1,
+                "BuyPrice": 6,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 64,
+                "IsInfinite": false,
+                "Quantity": 18,
+                "SellPrice": 46,
+                "BuyPrice": 184,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 57,
+                "IsInfinite": false,
+                "Quantity": 16,
+                "SellPrice": 51,
+                "BuyPrice": 204,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 26,
+                "IsInfinite": false,
+                "Quantity": 156,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 1359,
+                "IsInfinite": false,
+                "Quantity": 2,
+                "SellPrice": 1,
+                "BuyPrice": 10,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 621,
+                "IsInfinite": false,
+                "Quantity": 5,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 866,
+                "IsInfinite": false,
+                "Quantity": 168,
+                "SellPrice": 1,
+                "BuyPrice": 5,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 29,
+                "IsInfinite": false,
+                "Quantity": 349,
+                "SellPrice": 1,
+                "BuyPrice": 8,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              }
+            ],
+            "ResourcesProduced": [],
+            "ResourcesAdded": [
+              {
+                "Template": 43,
+                "Amount": 729,
+                "Chance": 1,
+                "IsTrading": true,
+                "Source": "CustomPortShopFiller"
+              }
+            ],
+            "ResourcesConsumed": []
+          },
+          {
+            "TemplateId": 72,
+            "IsInfinite": false,
+            "Quantity": 10032,
+            "SellPrice": 30,
+            "BuyPrice": 121,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 50,
+            "IsInfinite": false,
+            "Quantity": 10000,
+            "SellPrice": 31,
+            "BuyPrice": 125,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 1583,
+            "IsInfinite": false,
+            "Quantity": 10000,
+            "SellPrice": 21,
+            "BuyPrice": 85,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 70,
+            "IsInfinite": false,
+            "Quantity": 10008,
+            "SellPrice": 25,
+            "BuyPrice": 100,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 989,
+            "IsInfinite": false,
+            "Quantity": 5174,
+            "SellPrice": 32,
+            "BuyPrice": 49,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 43,
+            "IsInfinite": false,
+            "Quantity": 1200000,
+            "SellPrice": 1,
+            "BuyPrice": 2,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 3222,
+            "IsInfinite": false,
+            "Quantity": 26,
+            "SellPrice": 1,
+            "BuyPrice": 4,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "ItemTemplates",
+      "shard": "cleanopenworldprodeu2",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/ItemTemplates_cleanopenworldprodeu2.json",
+      "status": 200,
+      "bytes": 3819311,
+      "contentType": "text/plain",
+      "lastModified": "Fri, 14 Aug 2026 10:08:24 GMT",
+      "etag": "\"455072cd40fbae42005fee2b7cac4c55\"",
+      "generation": "1786702103917775",
+      "sha256": "2c68cf83927fc60d2563be9a6d0bed51cc15adf79787d5078f3b182b11ae1eee",
+      "parseOk": true,
+      "wrapper": "var ItemTemplates",
+      "topLevel": {
+        "type": "list",
+        "length": 1722
+      },
+      "analysis": {
+        "dictCount": 50328,
+        "commonKeys": [
+          [
+            "Min",
+            22671
+          ],
+          [
+            "Max",
+            22671
+          ],
+          [
+            "SellPrice",
+            8610
+          ],
+          [
+            "BuyPrice",
+            8610
+          ],
+          [
+            "Template",
+            7584
+          ],
+          [
+            "Chance",
+            7527
+          ],
+          [
+            "Group",
+            5633
+          ],
+          [
+            "Stack",
+            5633
+          ],
+          [
+            "StackIsPercOfAmount",
+            5633
+          ],
+          [
+            "Unique",
+            5633
+          ],
+          [
+            "x",
+            3672
+          ],
+          [
+            "y",
+            3672
+          ],
+          [
+            "Valid",
+            3444
+          ],
+          [
+            "Amount",
+            1895
+          ],
+          [
+            "BreakUpDropChance",
+            1894
+          ],
+          [
+            "__type",
+            1722
+          ],
+          [
+            "Name",
+            1722
+          ],
+          [
+            "Id",
+            1722
+          ],
+          [
+            "NotUsed",
+            1722
+          ],
+          [
+            "Hided",
+            1722
+          ],
+          [
+            "ApiExport",
+            1722
+          ],
+          [
+            "NotTradeable",
+            1722
+          ],
+          [
+            "PreventTeleport",
+            1722
+          ],
+          [
+            "DropChanceReductionPerItem",
+            1722
+          ],
+          [
+            "MaxStack",
+            1722
+          ],
+          [
+            "ItemWeight",
+            1722
+          ],
+          [
+            "BasePrice",
+            1722
+          ],
+          [
+            "MinContractAmount",
+            1722
+          ],
+          [
+            "MaxContractAmount",
+            1722
+          ],
+          [
+            "PriceReductionAmount",
+            1722
+          ]
+        ],
+        "examples": [
+          {
+            "__type": "MegaChaka.Services.Items.ModuleTemplate, MegaChaka",
+            "Modifiers": [
+              {
+                "Slot": "REPAIR_ARMOR",
+                "MappingIds": [
+                  "REPAIR_PERCENT"
+                ],
+                "Absolute": 0.07,
+                "Percentage": 0
+              }
+            ],
+            "scoreValue": 70,
+            "UsageType": "All",
+            "MaxItems": 1,
+            "Name": "Northern Carpenters - S",
+            "Id": 3075,
+            "NotUsed": false,
+            "Hided": false,
+            "ApiExport": true,
+            "NotTradeable": true,
+            "PreventTeleport": false
+          },
+          {
+            "Valid": false,
+            "Produced": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Consumed": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Regular": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "FullStackAmount": 100,
+            "FullStack": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "RandomPct": 0,
+            "RangePct": 0
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "__type": "MegaChaka.Services.Items.ShipSkinItemTemplate, MegaChaka",
+            "Name": "Indiaman - Candy",
+            "Id": 777,
+            "NotUsed": false,
+            "Hided": false,
+            "ApiExport": true,
+            "NotTradeable": true,
+            "PreventTeleport": false,
+            "DropChanceReductionPerItem": 0,
+            "MaxStack": 1,
+            "ItemWeight": 1,
+            "BasePrice": -1
+          },
+          {
+            "Valid": false,
+            "Produced": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Consumed": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Regular": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "FullStackAmount": 0,
+            "FullStack": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "RandomPct": 0,
+            "RangePct": 0
+          }
+        ]
+      }
+    },
+    {
+      "file": "Nations",
+      "shard": "cleanopenworldprodeu2",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Nations_cleanopenworldprodeu2.json",
+      "status": 200,
+      "bytes": 1223,
+      "contentType": "text/plain",
+      "lastModified": "Fri, 14 Aug 2026 10:08:25 GMT",
+      "etag": "\"1889c9a346bb13ba7b9fd7ee657e3be0\"",
+      "generation": "1786702104917598",
+      "sha256": "c56f99d2585bc0d56b37e3e92859631edb9b6ed67c82ca8f5d240742076dc006",
+      "parseOk": true,
+      "wrapper": "var Nations",
+      "topLevel": {
+        "type": "dict",
+        "keys": [
+          "Nations",
+          "RelationshipTable",
+          "PiratesNation",
+          "NeutralNation",
+          "FreeTownNation"
+        ],
+        "keyCount": 5,
+        "listSizes": {
+          "Nations": 6,
+          "RelationshipTable": 36
+        }
+      },
+      "analysis": {
+        "dictCount": 7,
+        "commonKeys": [
+          [
+            "Name",
+            6
+          ],
+          [
+            "CanBeUsedAsBotFiller",
+            6
+          ],
+          [
+            "CanBeUsedByPlayers",
+            6
+          ],
+          [
+            "CanBeVotedFor",
+            6
+          ],
+          [
+            "NationPortIsFreeForAll",
+            6
+          ],
+          [
+            "MaxBots",
+            6
+          ],
+          [
+            "Id",
+            6
+          ],
+          [
+            "NationStartingPortId",
+            6
+          ],
+          [
+            "Nations",
+            1
+          ],
+          [
+            "RelationshipTable",
+            1
+          ],
+          [
+            "PiratesNation",
+            1
+          ],
+          [
+            "NeutralNation",
+            1
+          ],
+          [
+            "FreeTownNation",
+            1
+          ]
+        ],
+        "examples": [
+          {
+            "Name": "Neutral",
+            "CanBeUsedAsBotFiller": false,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": 0,
+            "Id": 0,
+            "NationStartingPortId": -1
+          },
+          {
+            "Name": "Pirates",
+            "CanBeUsedAsBotFiller": false,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 1,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "España",
+            "CanBeUsedAsBotFiller": true,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 2,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "France",
+            "CanBeUsedAsBotFiller": true,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 3,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "Great Britain",
+            "CanBeUsedAsBotFiller": true,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 4,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "Verenigde Provinciën",
+            "CanBeUsedAsBotFiller": false,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": 0,
+            "Id": 5,
+            "NationStartingPortId": -1
+          }
+        ]
+      }
+    },
+    {
+      "file": "Ports",
+      "shard": "cleanopenworldprodeu3",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu3.json",
+      "status": 200,
+      "bytes": 672787,
+      "contentType": "text/plain",
+      "lastModified": "Fri, 14 Aug 2026 10:09:37 GMT",
+      "etag": "\"9b0e424e34f6f1913d9c091f8e742a5d\"",
+      "generation": "1786702177584413",
+      "sha256": "65fa7bc1863f4c307f8a4134cf9215ef73ede4cb5a65736e87cd0d420d6e9466",
+      "parseOk": true,
+      "wrapper": "var Ports",
+      "topLevel": {
+        "type": "list",
+        "length": 207
+      },
+      "analysis": {
+        "portCount": 207,
+        "knownPorts": [
+          {
+            "name": "Nassau",
+            "id": "14",
+            "nation": 5,
+            "x": null,
+            "y": null
+          },
+          {
+            "name": "Pitt's Town",
+            "id": "23",
+            "nation": 0,
+            "x": null,
+            "y": null
+          },
+          {
+            "name": "Saint George's Town",
+            "id": "355",
+            "nation": 2,
+            "x": null,
+            "y": null
+          },
+          {
+            "name": "Guacata",
+            "id": "374",
+            "nation": 2,
+            "x": null,
+            "y": null
+          }
+        ]
+      }
+    },
+    {
+      "file": "Shops",
+      "shard": "cleanopenworldprodeu3",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu3.json",
+      "status": 200,
+      "bytes": 1220088,
+      "contentType": "text/plain",
+      "lastModified": "Fri, 14 Aug 2026 10:09:37 GMT",
+      "etag": "\"5f150831eab297aba63d57bd610c8a38\"",
+      "generation": "1786702177252195",
+      "sha256": "68679b33d05f638e59e5be4e0bb5095e57b343eff5559642f2f26669fbe49148",
+      "parseOk": true,
+      "wrapper": "var Shops",
+      "topLevel": {
+        "type": "list",
+        "length": 207
+      },
+      "analysis": {
+        "dictCount": 8703,
+        "commonKeys": [
+          [
+            "TemplateId",
+            6072
+          ],
+          [
+            "IsInfinite",
+            6072
+          ],
+          [
+            "Quantity",
+            6072
+          ],
+          [
+            "SellPrice",
+            6072
+          ],
+          [
+            "BuyPrice",
+            6072
+          ],
+          [
+            "QuantityBought",
+            6072
+          ],
+          [
+            "BuyContractQuantity",
+            6072
+          ],
+          [
+            "SellContractQuantity",
+            6072
+          ],
+          [
+            "IsContractsExist",
+            6072
+          ],
+          [
+            "Key",
+            1747
+          ],
+          [
+            "Value",
+            1747
+          ],
+          [
+            "Template",
+            677
+          ],
+          [
+            "Amount",
+            677
+          ],
+          [
+            "Chance",
+            677
+          ],
+          [
+            "IsTrading",
+            677
+          ],
+          [
+            "Source",
+            677
+          ],
+          [
+            "Id",
+            207
+          ],
+          [
+            "Created",
+            207
+          ],
+          [
+            "Modified",
+            207
+          ],
+          [
+            "RegularItems",
+            207
+          ],
+          [
+            "ResourcesProduced",
+            207
+          ],
+          [
+            "ResourcesAdded",
+            207
+          ],
+          [
+            "ResourcesConsumed",
+            207
+          ]
+        ],
+        "examples": [
+          {
+            "Id": "3",
+            "Created": "/Date(-62135596800000)/",
+            "Modified": "/Date(-62135596800000)/",
+            "RegularItems": [
+              {
+                "TemplateId": 1583,
+                "IsInfinite": false,
+                "Quantity": 10008,
+                "SellPrice": 21,
+                "BuyPrice": 85,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 72,
+                "IsInfinite": false,
+                "Quantity": 10164,
+                "SellPrice": 30,
+                "BuyPrice": 121,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 70,
+                "IsInfinite": false,
+                "Quantity": 10093,
+                "SellPrice": 25,
+                "BuyPrice": 100,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 50,
+                "IsInfinite": false,
+                "Quantity": 10029,
+                "SellPrice": 31,
+                "BuyPrice": 125,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 989,
+                "IsInfinite": false,
+                "Quantity": 46039,
+                "SellPrice": 32,
+                "BuyPrice": 45,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 73,
+                "IsInfinite": false,
+                "Quantity": 98,
+                "SellPrice": 35,
+                "BuyPrice": 142,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 43,
+                "IsInfinite": false,
+                "Quantity": 1200000,
+                "SellPrice": 1,
+                "BuyPrice": 3,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 65,
+                "IsInfinite": false,
+                "Quantity": 10,
+                "SellPrice": 40,
+                "BuyPrice": 163,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 3221,
+                "IsInfinite": false,
+                "Quantity": 21,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 621,
+                "IsInfinite": false,
+                "Quantity": 14,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 3222,
+                "IsInfinite": false,
+                "Quantity": 3,
+                "SellPrice": 1,
+                "BuyPrice": 4,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 67,
+                "IsInfinite": false,
+                "Quantity": 10,
+                "SellPrice": 51,
+                "BuyPrice": 204,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 866,
+                "IsInfinite": false,
+                "Quantity": 96,
+                "SellPrice": 1,
+                "BuyPrice": 5,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              },
+              {
+                "TemplateId": 21,
+                "IsInfinite": false,
+                "Quantity": 3,
+                "SellPrice": 1,
+                "BuyPrice": 16,
+                "QuantityBought": 0,
+                "BuyContractQuantity": -1,
+                "SellContractQuantity": -1,
+                "IsContractsExist": false
+              }
+            ],
+            "ResourcesProduced": [],
+            "ResourcesAdded": [
+              {
+                "Template": 43,
+                "Amount": 733,
+                "Chance": 1,
+                "IsTrading": true,
+                "Source": "CustomPortShopFiller"
+              }
+            ],
+            "ResourcesConsumed": []
+          },
+          {
+            "TemplateId": 1583,
+            "IsInfinite": false,
+            "Quantity": 10008,
+            "SellPrice": 21,
+            "BuyPrice": 85,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 72,
+            "IsInfinite": false,
+            "Quantity": 10164,
+            "SellPrice": 30,
+            "BuyPrice": 121,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 70,
+            "IsInfinite": false,
+            "Quantity": 10093,
+            "SellPrice": 25,
+            "BuyPrice": 100,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 50,
+            "IsInfinite": false,
+            "Quantity": 10029,
+            "SellPrice": 31,
+            "BuyPrice": 125,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 989,
+            "IsInfinite": false,
+            "Quantity": 46039,
+            "SellPrice": 32,
+            "BuyPrice": 45,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 73,
+            "IsInfinite": false,
+            "Quantity": 98,
+            "SellPrice": 35,
+            "BuyPrice": 142,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          },
+          {
+            "TemplateId": 43,
+            "IsInfinite": false,
+            "Quantity": 1200000,
+            "SellPrice": 1,
+            "BuyPrice": 3,
+            "QuantityBought": 0,
+            "BuyContractQuantity": -1,
+            "SellContractQuantity": -1,
+            "IsContractsExist": false
+          }
+        ]
+      }
+    },
+    {
+      "file": "ItemTemplates",
+      "shard": "cleanopenworldprodeu3",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/ItemTemplates_cleanopenworldprodeu3.json",
+      "status": 200,
+      "bytes": 3819311,
+      "contentType": "text/plain",
+      "lastModified": "Fri, 14 Aug 2026 10:09:36 GMT",
+      "etag": "\"272d590d3e633b0f40ed37dead3ec8de\"",
+      "generation": "1786702176676755",
+      "sha256": "9cf8fc33840ef5e78fd6fcfbd501d0df9d9564d28adc8612557c3ca3cefac9db",
+      "parseOk": true,
+      "wrapper": "var ItemTemplates",
+      "topLevel": {
+        "type": "list",
+        "length": 1722
+      },
+      "analysis": {
+        "dictCount": 50328,
+        "commonKeys": [
+          [
+            "Min",
+            22671
+          ],
+          [
+            "Max",
+            22671
+          ],
+          [
+            "SellPrice",
+            8610
+          ],
+          [
+            "BuyPrice",
+            8610
+          ],
+          [
+            "Template",
+            7584
+          ],
+          [
+            "Chance",
+            7527
+          ],
+          [
+            "Group",
+            5633
+          ],
+          [
+            "Stack",
+            5633
+          ],
+          [
+            "StackIsPercOfAmount",
+            5633
+          ],
+          [
+            "Unique",
+            5633
+          ],
+          [
+            "x",
+            3672
+          ],
+          [
+            "y",
+            3672
+          ],
+          [
+            "Valid",
+            3444
+          ],
+          [
+            "Amount",
+            1895
+          ],
+          [
+            "BreakUpDropChance",
+            1894
+          ],
+          [
+            "__type",
+            1722
+          ],
+          [
+            "Name",
+            1722
+          ],
+          [
+            "Id",
+            1722
+          ],
+          [
+            "NotUsed",
+            1722
+          ],
+          [
+            "Hided",
+            1722
+          ],
+          [
+            "ApiExport",
+            1722
+          ],
+          [
+            "NotTradeable",
+            1722
+          ],
+          [
+            "PreventTeleport",
+            1722
+          ],
+          [
+            "DropChanceReductionPerItem",
+            1722
+          ],
+          [
+            "MaxStack",
+            1722
+          ],
+          [
+            "ItemWeight",
+            1722
+          ],
+          [
+            "BasePrice",
+            1722
+          ],
+          [
+            "MinContractAmount",
+            1722
+          ],
+          [
+            "MaxContractAmount",
+            1722
+          ],
+          [
+            "PriceReductionAmount",
+            1722
+          ]
+        ],
+        "examples": [
+          {
+            "__type": "MegaChaka.Services.Items.ShipSkinItemTemplate, MegaChaka",
+            "Name": "Endymion - Brest Harbor",
+            "Id": 911,
+            "NotUsed": false,
+            "Hided": false,
+            "ApiExport": true,
+            "NotTradeable": true,
+            "PreventTeleport": false,
+            "DropChanceReductionPerItem": 0,
+            "MaxStack": 1,
+            "ItemWeight": 1,
+            "BasePrice": -1
+          },
+          {
+            "Valid": false,
+            "Produced": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Consumed": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Regular": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "FullStackAmount": 0,
+            "FullStack": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "RandomPct": 0,
+            "RangePct": 0
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "SellPrice": {
+              "Min": 0,
+              "Max": 0
+            },
+            "BuyPrice": {
+              "Min": 0,
+              "Max": 0
+            }
+          },
+          {
+            "__type": "MegaChaka.Services.Items.ShipUpgradeBookItemTemplate, MegaChaka",
+            "Name": "Treatise on Heeling",
+            "Id": 1032,
+            "NotUsed": false,
+            "Hided": false,
+            "ApiExport": true,
+            "NotTradeable": true,
+            "PreventTeleport": false,
+            "DropChanceReductionPerItem": 0,
+            "MaxStack": 10,
+            "ItemWeight": 0,
+            "BasePrice": 2000
+          },
+          {
+            "Valid": false,
+            "Produced": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Consumed": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "Regular": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "FullStackAmount": 2000,
+            "FullStack": {
+              "SellPrice": {
+                "Min": 0,
+                "Max": 0
+              },
+              "BuyPrice": {
+                "Min": 0,
+                "Max": 0
+              }
+            },
+            "RandomPct": 0,
+            "RangePct": 0
+          }
+        ]
+      }
+    },
+    {
+      "file": "Nations",
+      "shard": "cleanopenworldprodeu3",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Nations_cleanopenworldprodeu3.json",
+      "status": 200,
+      "bytes": 1223,
+      "contentType": "text/plain",
+      "lastModified": "Fri, 14 Aug 2026 10:09:37 GMT",
+      "etag": "\"1889c9a346bb13ba7b9fd7ee657e3be0\"",
+      "generation": "1786702177879613",
+      "sha256": "c56f99d2585bc0d56b37e3e92859631edb9b6ed67c82ca8f5d240742076dc006",
+      "parseOk": true,
+      "wrapper": "var Nations",
+      "topLevel": {
+        "type": "dict",
+        "keys": [
+          "Nations",
+          "RelationshipTable",
+          "PiratesNation",
+          "NeutralNation",
+          "FreeTownNation"
+        ],
+        "keyCount": 5,
+        "listSizes": {
+          "Nations": 6,
+          "RelationshipTable": 36
+        }
+      },
+      "analysis": {
+        "dictCount": 7,
+        "commonKeys": [
+          [
+            "Name",
+            6
+          ],
+          [
+            "CanBeUsedAsBotFiller",
+            6
+          ],
+          [
+            "CanBeUsedByPlayers",
+            6
+          ],
+          [
+            "CanBeVotedFor",
+            6
+          ],
+          [
+            "NationPortIsFreeForAll",
+            6
+          ],
+          [
+            "MaxBots",
+            6
+          ],
+          [
+            "Id",
+            6
+          ],
+          [
+            "NationStartingPortId",
+            6
+          ],
+          [
+            "Nations",
+            1
+          ],
+          [
+            "RelationshipTable",
+            1
+          ],
+          [
+            "PiratesNation",
+            1
+          ],
+          [
+            "NeutralNation",
+            1
+          ],
+          [
+            "FreeTownNation",
+            1
+          ]
+        ],
+        "examples": [
+          {
+            "Name": "Neutral",
+            "CanBeUsedAsBotFiller": false,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": 0,
+            "Id": 0,
+            "NationStartingPortId": -1
+          },
+          {
+            "Name": "Pirates",
+            "CanBeUsedAsBotFiller": false,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 1,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "España",
+            "CanBeUsedAsBotFiller": true,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 2,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "France",
+            "CanBeUsedAsBotFiller": true,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 3,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "Great Britain",
+            "CanBeUsedAsBotFiller": true,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": -1,
+            "Id": 4,
+            "NationStartingPortId": 14
+          },
+          {
+            "Name": "Verenigde Provinciën",
+            "CanBeUsedAsBotFiller": false,
+            "CanBeUsedByPlayers": true,
+            "CanBeVotedFor": true,
+            "NationPortIsFreeForAll": false,
+            "MaxBots": 0,
+            "Id": 5,
+            "NationStartingPortId": -1
+          }
+        ]
+      }
+    },
+    {
+      "file": "Ports",
+      "shard": "cleanopenworldprodeu4",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu4.json",
+      "status": 403,
+      "bytes": 741,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Shops",
+      "shard": "cleanopenworldprodeu4",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu4.json",
+      "status": 403,
+      "bytes": 741,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "ItemTemplates",
+      "shard": "cleanopenworldprodeu4",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/ItemTemplates_cleanopenworldprodeu4.json",
+      "status": 403,
+      "bytes": 763,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Nations",
+      "shard": "cleanopenworldprodeu4",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Nations_cleanopenworldprodeu4.json",
+      "status": 403,
+      "bytes": 749,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Ports",
+      "shard": "cleanopenworldprodeu5",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu5.json",
+      "status": 403,
+      "bytes": 741,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Shops",
+      "shard": "cleanopenworldprodeu5",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu5.json",
+      "status": 403,
+      "bytes": 741,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "ItemTemplates",
+      "shard": "cleanopenworldprodeu5",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/ItemTemplates_cleanopenworldprodeu5.json",
+      "status": 403,
+      "bytes": 763,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Nations",
+      "shard": "cleanopenworldprodeu5",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Nations_cleanopenworldprodeu5.json",
+      "status": 403,
+      "bytes": 749,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Ports",
+      "shard": "cleanopenworldprodeu6",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu6.json",
+      "status": 403,
+      "bytes": 741,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Shops",
+      "shard": "cleanopenworldprodeu6",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu6.json",
+      "status": 403,
+      "bytes": 741,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "ItemTemplates",
+      "shard": "cleanopenworldprodeu6",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/ItemTemplates_cleanopenworldprodeu6.json",
+      "status": 403,
+      "bytes": 763,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Nations",
+      "shard": "cleanopenworldprodeu6",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Nations_cleanopenworldprodeu6.json",
+      "status": 403,
+      "bytes": 749,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Ports",
+      "shard": "cleanopenworldprodeu7",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu7.json",
+      "status": 403,
+      "bytes": 741,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Shops",
+      "shard": "cleanopenworldprodeu7",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu7.json",
+      "status": 403,
+      "bytes": 741,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "ItemTemplates",
+      "shard": "cleanopenworldprodeu7",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/ItemTemplates_cleanopenworldprodeu7.json",
+      "status": 403,
+      "bytes": 763,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Nations",
+      "shard": "cleanopenworldprodeu7",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Nations_cleanopenworldprodeu7.json",
+      "status": 403,
+      "bytes": 749,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Ports",
+      "shard": "cleanopenworldprodeu8",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Ports_cleanopenworldprodeu8.json",
+      "status": 403,
+      "bytes": 741,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Shops",
+      "shard": "cleanopenworldprodeu8",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Shops_cleanopenworldprodeu8.json",
+      "status": 403,
+      "bytes": 741,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "ItemTemplates",
+      "shard": "cleanopenworldprodeu8",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/ItemTemplates_cleanopenworldprodeu8.json",
+      "status": 403,
+      "bytes": 763,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    },
+    {
+      "file": "Nations",
+      "shard": "cleanopenworldprodeu8",
+      "url": "https://storage.googleapis.com/nacleanopenworldprodshards/Nations_cleanopenworldprodeu8.json",
+      "status": 403,
+      "bytes": 749,
+      "contentType": "application/xml; charset=UTF-8",
+      "lastModified": null,
+      "etag": null,
+      "generation": null,
+      "sha256": null,
+      "responsePrefix": "<?xml version='1.0' encoding='UTF-8'?><Error><Code>AccessDenied</Code><Message>Access denied.</Message><Details>Anonymous caller does not have storage.objects.g"
+    }
+  ]
+}
