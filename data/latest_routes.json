@@ -1,0 +1,11 @@
+{
+  "snapshot": "data/latest.json",
+  "inputs": {
+    "startPortId": null,
+    "cargoCapacity": 1000.0,
+    "availableReals": 1000000,
+    "minROI": 0.0
+  },
+  "routeCount": 0,
+  "routes": []
+}
