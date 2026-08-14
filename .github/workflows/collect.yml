@@ -26,6 +26,7 @@ on:
       - "naval_action_market/route_cli.py"
       - "naval_action_market/cli.py"
       - "naval_action_market/schema.py"
+      - "scripts/export_google_sheet_csvs.py"
       - ".github/workflows/collect.yml"
 
 # Automatic daily scheduling is intentionally not enabled until the user's
@@ -63,11 +64,15 @@ jobs:
         if: ${{ (inputs.provider || 'shard') == 'shard' }}
         run: python -m naval_action_market.route_cli --snapshot data/latest.json --cargo 1000 --reals 1000000 --min-roi 0 --limit 100 --output data/latest_routes.json
 
+      - name: Export Google Sheets tables
+        if: ${{ (inputs.provider || 'shard') == 'shard' }}
+        run: python scripts/export_google_sheet_csvs.py
+
       - name: Commit validated snapshot
         run: |
           git config user.name "naval-action-market-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/latest.json data/latest_routes.json data/history/
+          git add data/latest.json data/latest_routes.json data/google_sheets/ data/history/
           if git diff --cached --quiet; then
             echo "No validated snapshot changes to commit"
             exit 0
