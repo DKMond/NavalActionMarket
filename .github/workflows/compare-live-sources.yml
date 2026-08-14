@@ -1,0 +1,46 @@
+name: Compare public API with NavalGaming MAIN
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/compare_live_sources.py"
+      - ".github/workflows/compare-live-sources.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Compare simultaneous MAIN sources
+        run: python scripts/compare_live_sources.py
+
+      - name: Commit comparison report
+        if: always()
+        run: |
+          if [ ! -f research/live_source_compare.json ]; then
+            echo "No comparison report generated"
+            exit 0
+          fi
+          git config user.name "naval-action-market-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add research/live_source_compare.json
+          if git diff --cached --quiet; then
+            echo "No report changes"
+            exit 0
+          fi
+          git commit -m "research: compare public API with NavalGaming MAIN"
+          git push
