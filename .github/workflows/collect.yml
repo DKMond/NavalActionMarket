@@ -6,20 +6,21 @@ on:
       provider:
         description: Data provider
         required: true
-        default: api
+        default: shard
         type: choice
         options:
-          - api
+          - shard
           - html
+          - api
       allow_html:
         description: Explicitly permit fallback HTML collection for this run
         required: false
         default: false
         type: boolean
 
-# Scheduled triggers will be enabled after authorized data-source access is confirmed.
-# To remain DST-safe, the future schedule should fire at the UTC candidates for
-# 12:55 and 13:35-13:55 Europe/Bucharest and use schedule_guard.py before collection.
+# Automatic daily scheduling is intentionally not enabled until the user's
+# reset-time timezone is explicitly confirmed. The production data source no
+# longer depends on NavalGaming HTML.
 
 permissions:
   contents: write
@@ -48,14 +49,18 @@ jobs:
           ALLOW_HTML_COLLECTOR: ${{ inputs.allow_html && '1' || '0' }}
         run: python -m naval_action_market.cli --provider "$MARKET_PROVIDER"
 
+      - name: Build default route preview
+        if: ${{ inputs.provider == 'shard' }}
+        run: python -m naval_action_market.route_cli --snapshot data/latest.json --cargo 1000 --reals 1000000 --min-roi 0 --limit 100 --output data/latest_routes.json
+
       - name: Commit validated snapshot
         run: |
           git config user.name "naval-action-market-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/latest.json data/history/
+          git add data/latest.json data/latest_routes.json data/history/
           if git diff --cached --quiet; then
             echo "No validated snapshot changes to commit"
             exit 0
           fi
-          git commit -m "data: collect MAIN market snapshot"
+          git commit -m "data: collect MAIN public-shard snapshot"
           git push
