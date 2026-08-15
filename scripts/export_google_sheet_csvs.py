@@ -7,6 +7,8 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any, Dict, Iterable, Optional
 
+from naval_action_market.navigation import fallback_trader_k, load_navigation
+
 ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT = ROOT / "data" / "latest.json"
 ROUTES = ROOT / "data" / "latest_routes.json"
@@ -53,6 +55,7 @@ def main() -> int:
     snapshot_utc = metadata.get("finishedAt") or metadata.get("startedAt") or ""
     source_objects = metadata.get("sourceObjects", {})
     shops_source = (source_objects.get("shops") or {}).get("url", "")
+    navigation = load_navigation()
 
     ports = snapshot.get("ports", [])
     port_map: Dict[int, Dict[str, Any]] = {
@@ -123,9 +126,6 @@ def main() -> int:
         ),
     )
 
-    # Candidate routes are pre-joined in Python so Google Sheets only needs to apply
-    # user-specific cargo/capital/ROI constraints and ranking. This keeps the Sheet
-    # responsive and avoids a large cross-join in formulas.
     sources_by_item: Dict[int, list[Dict[str, Any]]] = defaultdict(list)
     destinations_by_item: Dict[int, list[Dict[str, Any]]] = defaultdict(list)
     for row in shop_rows:
@@ -166,17 +166,24 @@ def main() -> int:
                 destination_port = port_map.get(destination_port_id, {})
                 destination_tax = num(destination_port.get("taxRate")) or 0.0
 
-                # Necessary condition for a positive route after tax. Exact transaction
-                # rounding is applied later in the Sheet and in the Python route engine.
                 approx_margin = sell_price * (1.0 - destination_tax) - buy_price * (1.0 + source_tax)
                 if approx_margin <= 0:
                     continue
 
                 sx, sy = num(source_port.get("x")), num(source_port.get("y"))
                 dx, dy = num(destination_port.get("x")), num(destination_port.get("y"))
-                distance = ""
+                map_distance = ""
                 if None not in (sx, sy, dx, dy):
-                    distance = math.hypot(float(dx) - float(sx), float(dy) - float(sy))
+                    map_distance = math.hypot(float(dx) - float(sx), float(dy) - float(sy))
+
+                nav = navigation.get(source_port_id, destination_port_id)
+                trader_k = nav.straight_k if nav else fallback_trader_k(sx, sy, dx, dy)
+                shallow_k = nav.shallow_route_k if nav and nav.shallow_valid else None
+                deep_k = nav.deep_route_k if nav and nav.deep_valid else None
+                shallow_valid = bool(nav and nav.shallow_valid)
+                deep_valid = bool(nav and nav.deep_valid)
+                shallow_detour = ((shallow_k / trader_k - 1.0) if shallow_k and trader_k else None)
+                deep_detour = ((deep_k / trader_k - 1.0) if deep_k and trader_k else None)
 
                 candidate_id += 1
                 candidate_rows.append((
@@ -184,7 +191,9 @@ def main() -> int:
                     source_port_id, src.get("portName"), source_port.get("nationName"),
                     destination_port_id, dst.get("portName"), destination_port.get("nationName"),
                     weight, source_qty, destination_qty, int(round(buy_price)), int(round(sell_price)),
-                    source_tax, destination_tax, sx, sy, dx, dy, distance,
+                    source_tax, destination_tax, sx, sy, dx, dy, map_distance,
+                    trader_k, shallow_k, deep_k, shallow_valid, deep_valid,
+                    shallow_detour, deep_detour,
                     "B_RESET_SNAPSHOT",
                 ))
 
@@ -195,7 +204,8 @@ def main() -> int:
             "sourceNation", "destinationPortId", "destinationPort", "destinationNation",
             "weight", "sourceQty", "destinationQty", "buyPrice", "sellPrice", "sourceTax",
             "destinationTax", "sourceX", "sourceY", "destinationX", "destinationY",
-            "mapDistance", "confidence",
+            "mapDistance", "traderDistanceK", "shallowRouteK", "deepRouteK",
+            "shallowValid", "deepValid", "shallowDetourPct", "deepDetourPct", "confidence",
         ],
         candidate_rows,
     )
@@ -208,7 +218,9 @@ def main() -> int:
                 "rank", "itemId", "item", "sourcePortId", "sourcePort", "destinationPortId",
                 "destinationPort", "quantity", "weightPerUnit", "cargoWeight", "buyPrice",
                 "sellPrice", "totalCost", "netRevenue", "netProfit", "roi", "profitPerWeight",
-                "mapDistance", "profitPerMapDistance", "sourceAvailableQty", "destinationDemandQty",
+                "mapDistance", "profitPerMapDistance", "traderDistanceK", "shallowRouteK",
+                "deepRouteK", "shallowValid", "deepValid", "shipWaterClass", "routeDistanceK",
+                "profitPerK", "navigationConfidence", "sourceAvailableQty", "destinationDemandQty",
                 "confidence",
             ],
             (
@@ -218,7 +230,10 @@ def main() -> int:
                     r.get("quantity"), r.get("weightPerUnit"), r.get("cargoWeight"),
                     r.get("buyPrice"), r.get("sellPrice"), r.get("totalCost"), r.get("netRevenue"),
                     r.get("netProfit"), r.get("roi"), r.get("profitPerWeight"), r.get("mapDistance"),
-                    r.get("profitPerMapDistance"), r.get("sourceAvailableQty"),
+                    r.get("profitPerMapDistance"), r.get("traderDistanceK"), r.get("shallowRouteK"),
+                    r.get("deepRouteK"), r.get("shallowValid"), r.get("deepValid"),
+                    r.get("shipWaterClass"), r.get("routeDistanceK"), r.get("profitPerK"),
+                    r.get("navigationConfidence"), r.get("sourceAvailableQty"),
                     r.get("destinationDemandQty"), r.get("confidence"),
                 )
                 for r in routes_payload.get("routes", [])
