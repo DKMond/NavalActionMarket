@@ -16,6 +16,8 @@ def parser() -> argparse.ArgumentParser:
     p.add_argument("--min-roi", type=float, default=0.0, help="Minimum ROI as decimal, e.g. 0.25")
     p.add_argument("--limit", type=int, default=50)
     p.add_argument("--include-nonactive", action="store_true")
+    p.add_argument("--ship-water-class", choices=("deep", "shallow"), default="deep")
+    p.add_argument("--navigation-data", help="Optional Navigation v2 CSV path")
     p.add_argument("--output")
     return p
 
@@ -31,6 +33,8 @@ def main() -> int:
         min_roi=args.min_roi,
         active_only=not args.include_nonactive,
         limit=args.limit,
+        ship_water_class=args.ship_water_class,
+        navigation_path=args.navigation_data,
     )
     payload = {
         "snapshot": args.snapshot,
@@ -39,6 +43,8 @@ def main() -> int:
             "cargoCapacity": args.cargo,
             "availableReals": args.reals,
             "minROI": args.min_roi,
+            "shipWaterClass": args.ship_water_class,
+            "navigationData": args.navigation_data or "data/navigation_v2.csv",
         },
         "routeCount": len(routes),
         "routes": routes,
