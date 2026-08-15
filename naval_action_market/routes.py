@@ -3,6 +3,8 @@ from __future__ import annotations
 import math
 from typing import Any, Dict, List, Optional
 
+from .navigation import fallback_trader_k, load_navigation
+
 
 def _num(value: Any) -> Optional[float]:
     try:
@@ -50,7 +52,14 @@ def find_routes(
     min_roi: float = 0.0,
     active_only: bool = True,
     limit: int = 100,
+    ship_water_class: str = "deep",
+    navigation_path: Optional[str] = None,
 ) -> List[Dict[str, Any]]:
+    ship_water_class = ship_water_class.lower().strip()
+    if ship_water_class not in {"deep", "shallow"}:
+        raise ValueError("ship_water_class must be 'deep' or 'shallow'")
+
+    navigation = load_navigation(navigation_path) if navigation_path else load_navigation()
     ports = _port_map(snapshot)
     shop_rows = snapshot.get("shopItems", [])
 
@@ -115,9 +124,25 @@ def find_routes(
 
             sx, sy = _num(source_port.get("x")), _num(source_port.get("y"))
             dx, dy = _num(dest_port.get("x")), _num(dest_port.get("y"))
-            distance = None
+            raw_map_distance = None
             if None not in (sx, sy, dx, dy):
-                distance = math.hypot(dx - sx, dy - sy)
+                raw_map_distance = math.hypot(dx - sx, dy - sy)
+
+            nav = navigation.get(source_port_id, dest_port_id)
+            trader_k = nav.straight_k if nav else fallback_trader_k(sx, sy, dx, dy)
+            shallow_k = nav.shallow_route_k if nav and nav.shallow_valid else None
+            deep_k = nav.deep_route_k if nav and nav.deep_valid else None
+            shallow_valid = bool(nav and nav.shallow_valid)
+            deep_valid = bool(nav and nav.deep_valid)
+            route_k = shallow_k if ship_water_class == "shallow" else deep_k
+
+            # Do not discard an economic opportunity solely because v2 data is absent.
+            # If the pair exists and is explicitly invalid for the requested water
+            # class, skip it; otherwise fall back to straight Trader K.
+            if nav is not None and route_k is None:
+                continue
+            if route_k is None:
+                route_k = trader_k
 
             cargo_weight = qty * weight
             routes.append({
@@ -141,16 +166,35 @@ def find_routes(
                 "netProfit": profit,
                 "roi": roi,
                 "profitPerWeight": profit / cargo_weight if cargo_weight else None,
-                "mapDistance": distance,
-                "profitPerMapDistance": profit / distance if distance else None,
+                # Backwards-compatible raw public-shard coordinate distance.
+                "mapDistance": raw_map_distance,
+                "profitPerMapDistance": profit / raw_map_distance if raw_map_distance else None,
+                # Navigation v2 distances are in Trader Tool K.
+                "traderDistanceK": trader_k,
+                "shallowRouteK": shallow_k,
+                "deepRouteK": deep_k,
+                "shallowValid": shallow_valid,
+                "deepValid": deep_valid,
+                "shipWaterClass": ship_water_class,
+                "routeDistanceK": route_k,
+                "profitPerK": profit / route_k if route_k else None,
                 "sourceAvailableQty": source_qty,
                 "destinationDemandQty": demand_qty,
                 "confidence": "B_RESET_SNAPSHOT",
+                "navigationConfidence": "NAV_V2" if nav else "STRAIGHT_K_FALLBACK",
                 "buyTaxRounding": "conservative-ceil-until-in-game-rounding-validated",
                 "sellTaxRounding": "floor-validated-in-game",
             })
 
-    routes.sort(key=lambda r: (r["netProfit"], r["roi"], r.get("profitPerWeight") or 0), reverse=True)
+    routes.sort(
+        key=lambda r: (
+            r["netProfit"],
+            r["roi"],
+            r.get("profitPerK") or 0,
+            r.get("profitPerWeight") or 0,
+        ),
+        reverse=True,
+    )
     for index, route in enumerate(routes[:limit], start=1):
         route["rank"] = index
     return routes[:limit]
